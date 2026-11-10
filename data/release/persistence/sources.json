@@ -1,0 +1,34 @@
+[
+  {
+    "path": "data/release/2007/winners.parquet",
+    "sha256": "994139f096f75a7170915728dad9715ce8cd47d0d58a1a6b41e05b6de83bb727"
+  },
+  {
+    "path": "data/release/2012/winners.parquet",
+    "sha256": "4043259dbfc9d1017784015991bec70841f5a71211970aa7a2807c4058afd8bf"
+  },
+  {
+    "path": "data/extracted/2012/winner_runner_up.csv",
+    "sha256": "a6a1e3a2c3da52026dd3b46c500f7b8b557e62dce9ab02a60722ad74ed2038f5"
+  },
+  {
+    "path": "data/frame.json",
+    "sha256": "a16fb7228496a7d4fbc32903ec78fe4f9bdf98f0b6207cef9d4e960c724ebee7"
+  },
+  {
+    "path": "data/raw/2012/reservation_order.pdf",
+    "sha256": "8265ec2be68e4e7e1706ff12ab8344b255d077017a45aa9a2d71972f303d1aa6"
+  },
+  {
+    "path": "data/raw/2007/election_results.xls",
+    "sha256": "44d89ab0adf061ec06a2e86257fa5580ec1d8e56c58dde6fa0ce52d4d1240724"
+  },
+  {
+    "path": "data/raw/2012/winner_runner_up.pdf",
+    "sha256": "b1615f0c6eea67daa1889d073719cf599903557313da6729b1724eade1072b92"
+  },
+  {
+    "path": "../local_elections/data/delhi/interim/sex_review.csv",
+    "sha256": "9ac27ace6e221fc615c0d8b10ca6e8c4ce8665764c7adf6ca1937404020790c8"
+  }
+]

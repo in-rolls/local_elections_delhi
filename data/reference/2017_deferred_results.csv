@@ -1,0 +1,3 @@
+year,ward,ward_name,winner_name,winner_party,winner_votes,runner_up_name,runner_up_party,runner_up_votes,margin,source_page,source_file,source_sha256,candidate_count,nota_votes,total_votes
+2017,16-N,SARAI PIPAL THALA,Mukesh Kumar Goel,INDIAN NATIONAL CONGRESS,10946,Mangat Ram Sharma,,8203,2743,2,deferred_16_n.pdf,d08a17d167f10f273bacdb6b042e61ea39ba548b892d5394dece92147f6fbe88,12,124,24820
+2017,40-E,MAUJPUR,RESHMA,AAM AADMI PARTY,9374,REKHA SHARMA,,8675,699,1,deferred_40_e.pdf,fbedfd6fb9cd40854f1a6b2db824921b436562d9316ba29de51195ee24da631c,10,95,26032

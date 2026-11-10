@@ -1,0 +1,4 @@
+year,ward,candidate_name,field,compilation,official,selected,decision,source,page
+2022,157,pooja,votes,8683,79,79,prefer_sec_report_confirmed_by_signed_return,data/raw/2022/election_report_volume_2.pdf,1141
+2022,157,bineeta sharma,votes,0,103,103,prefer_sec_report_confirmed_by_signed_return,data/raw/2022/election_report_volume_2.pdf,1141
+2022,236,MUKESH KUMAR BANSAL,votes,15069,15070,15069,prefer_signed_return,data/raw/2022/returns/ward_236.pdf,1

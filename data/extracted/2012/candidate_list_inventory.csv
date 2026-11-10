@@ -1,0 +1,274 @@
+year,corporation,ward,ward_name,reservation,candidate_count,serial_numbers_contiguous,source_path,source_url
+2012,north,1,Narela,W,11,True,data/raw/2012/candidates/ward-1-ward-list-north_3.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-1-ward-list-north_3.pdf
+2012,north,2,Bankner,G,12,True,data/raw/2012/candidates/ward-2-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-2-ward-list-north_1.pdf
+2012,north,3,Alipur,SCW,9,True,data/raw/2012/candidates/ward-3-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-3-ward-list-north_1.pdf
+2012,north,4,Bakhtawar Pur,W,6,True,data/raw/2012/candidates/ward-4-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-4-ward-list-north_1.pdf
+2012,north,5,Bhalswa Jahangir Pur,SC,7,True,data/raw/2012/candidates/ward-5-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-5-ward-list-north_1.pdf
+2012,north,6,Mukund Pur,G,24,True,data/raw/2012/candidates/ward-6-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-6-ward-list-north_1.pdf
+2012,north,7,Burari,W,11,True,data/raw/2012/candidates/ward-7-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-7-ward-list-north_1.pdf
+2012,north,8,Jharoda,G,16,True,data/raw/2012/candidates/ward-8-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-8-ward-list-north_1.pdf
+2012,north,9,Malka Ganj,SCW,5,True,data/raw/2012/candidates/ward-9-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-9-ward-list-north_1.pdf
+2012,north,10,Timarpur,W,10,True,data/raw/2012/candidates/ward-10-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-10-ward-list-north_1.pdf
+2012,north,11,Mukharjee Nagar,G,9,True,data/raw/2012/candidates/ward-11-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-11-ward-list-north_1.pdf
+2012,north,12,G.T.B. Nagar,W,7,True,data/raw/2012/candidates/ward-12-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-12-ward-list-north_1.pdf
+2012,north,13,Dhir Pur,G,12,True,data/raw/2012/candidates/ward-13-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-13-ward-list-north_1.pdf
+2012,north,14,Adarsh Nagar,W,4,True,data/raw/2012/candidates/ward-14-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-14-ward-list-north_1.pdf
+2012,north,15,Sarai Pipal Thala,G,7,True,data/raw/2012/candidates/ward-15-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-15-ward-list-north_1.pdf
+2012,north,16,Jahangir Puri – I,SC,6,True,data/raw/2012/candidates/ward-16-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-16-ward-list-north_1.pdf
+2012,north,17,Samaypur Badli,SCW,8,True,data/raw/2012/candidates/ward-17-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-17-ward-list-north_1.pdf
+2012,north,18,Libas Pur,W,10,True,data/raw/2012/candidates/ward-18-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-18-ward-list-north_1.pdf
+2012,north,19,Bhalswa,G,16,True,data/raw/2012/candidates/ward-19-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-19-ward-list-north_1.pdf
+2012,north,20,Jahangir Puri – II,W,9,True,data/raw/2012/candidates/ward-20-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-20-ward-list-north_1.pdf
+2012,north,21,Rohini,G,16,True,data/raw/2012/candidates/ward-21-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-21-ward-list-north_1.pdf
+2012,north,22,Rithala,W,9,True,data/raw/2012/candidates/ward-22-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-22-ward-list-north_1.pdf
+2012,north,23,Budh Vihar,G,15,True,data/raw/2012/candidates/ward-23-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-23-ward-list-north_1.pdf
+2012,north,24,Vijay Vihar,W,11,True,data/raw/2012/candidates/ward-24-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-24-ward-list-north_1.pdf
+2012,north,25,Pooth Kalan,G,20,True,data/raw/2012/candidates/ward-25-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-25-ward-list-north_1.pdf
+2012,north,26,Sahibabad Daulat Pur,SC,10,True,data/raw/2012/candidates/ward-26-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-26-ward-list-north_1.pdf
+2012,north,27,Begumpur,W,4,True,data/raw/2012/candidates/ward-27-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-27-ward-list-north_1.pdf
+2012,north,28,Bawana,G,17,True,data/raw/2012/candidates/ward-28-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-28-ward-list-north_1.pdf
+2012,north,29,Karala,W,5,True,data/raw/2012/candidates/ward-29-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-29-ward-list-north_1.pdf
+2012,north,30,Mundaka,G,9,True,data/raw/2012/candidates/ward-30-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-30-ward-list-north_1.pdf
+2012,north,31,Nangloi Jat West,SCW,4,True,data/raw/2012/candidates/ward-31-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-31-ward-list-north_1.pdf
+2012,north,32,Nilothi,W,10,True,data/raw/2012/candidates/ward-32-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-32-ward-list-north_1.pdf
+2012,north,33,Pratap Vihar,G,23,True,data/raw/2012/candidates/ward-33-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-33-ward-list-north_1.pdf
+2012,north,34,Nithari,W,13,True,data/raw/2012/candidates/ward-34-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-34-ward-list-north_1.pdf
+2012,north,35,Kirari Suleman Nagar,SC,13,True,data/raw/2012/candidates/ward-35-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-35-ward-list-north_1.pdf
+2012,north,36,Prem Nagar,G,7,True,data/raw/2012/candidates/ward-36-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-36-ward-list-north_1.pdf
+2012,north,37,Sultanpuri East,SCW,5,True,data/raw/2012/candidates/ward-37-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-37-ward-list-north_1.pdf
+2012,north,38,Mangolpuri North,W,17,True,data/raw/2012/candidates/ward-38-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-38-ward-list-north_1.pdf
+2012,north,39,Sultanpur Majra,G,17,True,data/raw/2012/candidates/ward-39-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-39-ward-list-north_1.pdf
+2012,north,40,Sultanpuri South,W,6,True,data/raw/2012/candidates/ward-40-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-40-ward-list-north_1.pdf
+2012,north,41,Guru Harikishan Nagar,G,7,True,data/raw/2012/candidates/ward-41-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-41-ward-list-north_1.pdf
+2012,north,42,Peeragarhi,SC,8,True,data/raw/2012/candidates/ward-42-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-42-ward-list-north_1.pdf
+2012,north,43,Nangloi East,W,8,True,data/raw/2012/candidates/ward-43-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-43-ward-list-north_1.pdf
+2012,north,44,Quammruddin Nagar,G,16,True,data/raw/2012/candidates/ward-44-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-44-ward-list-north_1.pdf
+2012,north,45,Rohini South,W,6,True,data/raw/2012/candidates/ward-45-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-45-ward-list-north_1.pdf
+2012,north,46,Mangolpuri East,SCW,9,True,data/raw/2012/candidates/ward-46-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-46-ward-list-north_1.pdf
+2012,north,47,Mangolpuri,G,16,True,data/raw/2012/candidates/ward-47-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-47-ward-list-north_1.pdf
+2012,north,48,Mangolpuri West,W,6,True,data/raw/2012/candidates/ward-48-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-48-ward-list-north_1.pdf
+2012,north,49,Rohini North,G,7,True,data/raw/2012/candidates/ward-49-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-49-ward-list-north_1.pdf
+2012,north,50,Rohini Central,W,2,True,data/raw/2012/candidates/ward-50-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-50-ward-list-north_1.pdf
+2012,north,51,Rohini East,G,3,True,data/raw/2012/candidates/ward-51-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-51-ward-list-north_1.pdf
+2012,north,52,Naharpur,W,3,True,data/raw/2012/candidates/ward-52-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-52-ward-list-north_1.pdf
+2012,north,53,Pitampura South,G,9,True,data/raw/2012/candidates/ward-53-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-53-ward-list-north_1.pdf
+2012,north,54,Pitampura North,W,4,True,data/raw/2012/candidates/ward-54-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-54-ward-list-north_1.pdf
+2012,north,55,Shalimar Bagh North,G,9,True,data/raw/2012/candidates/ward-55-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-55-ward-list-north_1.pdf
+2012,north,56,Shalimar Bagh South,W,4,True,data/raw/2012/candidates/ward-56-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-56-ward-list-north_1.pdf
+2012,north,57,Paschim Vihar South,G,7,True,data/raw/2012/candidates/ward-57-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-57-ward-list-north_1.pdf
+2012,north,58,Paschim Vihar North,W,3,True,data/raw/2012/candidates/ward-58-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-58-ward-list-north_1.pdf
+2012,north,59,Rani Bagh,G,5,True,data/raw/2012/candidates/ward-59-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-59-ward-list-north_1.pdf
+2012,north,60,Sarswati Vihar,W,4,True,data/raw/2012/candidates/ward-60-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-60-ward-list-north_1.pdf
+2012,north,61,Tri Nagar,G,11,True,data/raw/2012/candidates/ward-61-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-61-ward-list-north_1.pdf
+2012,north,62,Rampura,W,5,True,data/raw/2012/candidates/ward-62-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-62-ward-list-north_1.pdf
+2012,north,63,Kohat Enclave,G,6,True,data/raw/2012/candidates/ward-63-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-63-ward-list-north_1.pdf
+2012,north,64,Shakurpur,SC,9,True,data/raw/2012/candidates/ward-64-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-64-ward-list-north_1.pdf
+2012,north,65,Nimiri Colony,SCW,7,True,data/raw/2012/candidates/ward-65-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-65-ward-list-north_1.pdf
+2012,north,66,Sawan Park,W,11,True,data/raw/2012/candidates/ward-66-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-66-ward-list-north_1.pdf
+2012,north,67,Wazirpur,G,8,True,data/raw/2012/candidates/ward-67-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-67-ward-list-north_1.pdf
+2012,north,68,Ashok Vihar,W,12,True,data/raw/2012/candidates/ward-68-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-68-ward-list-north_1.pdf
+2012,north,69,Kamla Nagar,G,4,True,data/raw/2012/candidates/ward-69-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-69-ward-list-north_1.pdf
+2012,north,70,Rana Pratap Bagh,W,7,True,data/raw/2012/candidates/ward-70-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-70-ward-list-north_1.pdf
+2012,north,71,Sangam Park,SC,7,True,data/raw/2012/candidates/ward-71-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-71-ward-list-north_1.pdf
+2012,north,72,Model Town,G,5,True,data/raw/2012/candidates/ward-72-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-72-ward-list-north_1.pdf
+2012,north,73,Shastri Nagar,W,7,True,data/raw/2012/candidates/ward-73-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-73-ward-list-north_1.pdf
+2012,north,74,Inderlok Colony,SCW,4,True,data/raw/2012/candidates/ward-74-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-74-ward-list-north_1.pdf
+2012,north,75,Kishan Ganj,G,9,True,data/raw/2012/candidates/ward-75-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-75-ward-list-north_1.pdf
+2012,north,76,Deputy Ganj,W,7,True,data/raw/2012/candidates/ward-76-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-76-ward-list-north_1.pdf
+2012,north,77,Kashmere Gate,G,6,True,data/raw/2012/candidates/ward-77-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-77-ward-list-north_1.pdf
+2012,north,78,Majnu ka Tila,W,8,True,data/raw/2012/candidates/ward-78-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-78-ward-list-north_1.pdf
+2012,north,79,Jama Masjid,G,9,True,data/raw/2012/candidates/ward-79-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-79-ward-list-north_1.pdf
+2012,north,80,Chandni Chowk,W,4,True,data/raw/2012/candidates/ward-80-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-80-ward-list-north_1.pdf
+2012,north,81,Minto Road,G,6,True,data/raw/2012/candidates/ward-81-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-81-ward-list-north_1.pdf
+2012,north,82,Kucha Pandit,SC,8,True,data/raw/2012/candidates/ward-82-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-82-ward-list-north_1.pdf
+2012,north,83,Bazar Sita Ram,W,7,True,data/raw/2012/candidates/ward-83-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-83-ward-list-north_1.pdf
+2012,north,84,Turkman Gate,G,12,True,data/raw/2012/candidates/ward-84-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-84-ward-list-north_1.pdf
+2012,north,85,Idgah Road,W,5,True,data/raw/2012/candidates/ward-85-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-85-ward-list-north_1.pdf
+2012,north,86,Ballimaran,G,13,True,data/raw/2012/candidates/ward-86-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-86-ward-list-north_1.pdf
+2012,north,87,Ram Nagar,SCW,4,True,data/raw/2012/candidates/ward-87-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-87-ward-list-north_1.pdf
+2012,north,88,Qasabpura,W,6,True,data/raw/2012/candidates/ward-88-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-88-ward-list-north_1.pdf
+2012,north,89,Paharganj,G,7,True,data/raw/2012/candidates/ward-89-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-89-ward-list-north_1.pdf
+2012,north,90,Model Basti,W,5,True,data/raw/2012/candidates/ward-90-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-90-ward-list-north_1.pdf
+2012,north,91,Karol Bagh,G,8,True,data/raw/2012/candidates/ward-91-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-91-ward-list-north_1.pdf
+2012,north,92,Dev Nagar,SC,5,True,data/raw/2012/candidates/ward-92-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-92-ward-list-north_1.pdf
+2012,north,93,Baljit Nagar,W,8,True,data/raw/2012/candidates/ward-93-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-93-ward-list-north_1.pdf
+2012,north,94,West Patel Nagar,G,12,True,data/raw/2012/candidates/ward-94-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-94-ward-list-north_1.pdf
+2012,north,95,East Patel Nagar,SCW,3,True,data/raw/2012/candidates/ward-95-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-95-ward-list-north_1.pdf
+2012,north,96,New Ranjit Nagar,W,5,True,data/raw/2012/candidates/ward-96-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-96-ward-list-north_1.pdf
+2012,north,97,Kirti Nagar,G,6,True,data/raw/2012/candidates/ward-97-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-97-ward-list-north_1.pdf
+2012,north,98,Mansarovar Garden,W,9,True,data/raw/2012/candidates/ward-98-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-98-ward-list-north_1.pdf
+2012,north,99,Moti Nagar,G,3,True,data/raw/2012/candidates/ward-99-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-99-ward-list-north_1.pdf
+2012,north,100,Karampura,W,11,True,data/raw/2012/candidates/ward-100-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-100-ward-list-north_1.pdf
+2012,south,101,Raja Garden,W,5,True,data/raw/2012/candidates/ward-101-ward-list-south_3.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-101-ward-list-south_3.pdf
+2012,south,102,Raghubir Nagar,G,11,True,data/raw/2012/candidates/ward-102-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-102-ward-list-south_1.pdf
+2012,south,103,Punjabi Bagh,W,5,True,data/raw/2012/candidates/ward-103-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-103-ward-list-south_1.pdf
+2012,south,104,Madipur,SCW,4,True,data/raw/2012/candidates/ward-104-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-104-ward-list-south_1.pdf
+2012,south,105,Rajouri Garden,G,5,True,data/raw/2012/candidates/ward-105-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-105-ward-list-south_1.pdf
+2012,south,106,Tegore Garden,W,4,True,data/raw/2012/candidates/ward-106-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-106-ward-list-south_1.pdf
+2012,south,107,Vishnu Garden,G,10,True,data/raw/2012/candidates/ward-107-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-107-ward-list-south_1.pdf
+2012,south,108,Khyala,W,5,True,data/raw/2012/candidates/ward-108-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-108-ward-list-south_1.pdf
+2012,south,109,Janakpuri North,G,4,True,data/raw/2012/candidates/ward-109-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-109-ward-list-south_1.pdf
+2012,south,110,Nangal Raya,W,3,True,data/raw/2012/candidates/ward-110-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-110-ward-list-south_1.pdf
+2012,south,111,Hari Nagar,G,5,True,data/raw/2012/candidates/ward-111-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-111-ward-list-south_1.pdf
+2012,south,112,Subhash Nagar,W,7,True,data/raw/2012/candidates/ward-112-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-112-ward-list-south_1.pdf
+2012,south,113,Mahavir Nagar,G,7,True,data/raw/2012/candidates/ward-113-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-113-ward-list-south_1.pdf
+2012,south,114,Tilak Nagar,W,3,True,data/raw/2012/candidates/ward-114-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-114-ward-list-south_1.pdf
+2012,south,115,Major Bhupinder Singh Nagar,G,10,True,data/raw/2012/candidates/ward-115-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-115-ward-list-south_1.pdf
+2012,south,116,Vikaspuri East,W,6,True,data/raw/2012/candidates/ward-116-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-116-ward-list-south_1.pdf
+2012,south,117,Janakpuri West,G,4,True,data/raw/2012/candidates/ward-117-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-117-ward-list-south_1.pdf
+2012,south,118,Janakpuri South,W,2,True,data/raw/2012/candidates/ward-118-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-118-ward-list-south_1.pdf
+2012,south,119,Milap Nagar,G,8,True,data/raw/2012/candidates/ward-119-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-119-ward-list-south_1.pdf
+2012,south,120,Sitapuri,W,5,True,data/raw/2012/candidates/ward-120-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-120-ward-list-south_1.pdf
+2012,south,121,Kunwar Singh Nagar,G,12,True,data/raw/2012/candidates/ward-121-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-121-ward-list-south_1.pdf
+2012,south,122,Hastsal,W,9,True,data/raw/2012/candidates/ward-122-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-122-ward-list-south_1.pdf
+2012,south,123,Vikaspuri,SC,9,True,data/raw/2012/candidates/ward-123-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-123-ward-list-south_1.pdf
+2012,south,124,Vikas Nagar,G,8,True,data/raw/2012/candidates/ward-124-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-124-ward-list-south_1.pdf
+2012,south,125,Mohan Garden,W,14,True,data/raw/2012/candidates/ward-125-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-125-ward-list-south_1.pdf
+2012,south,126,Nawada,G,9,True,data/raw/2012/candidates/ward-126-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-126-ward-list-south_1.pdf
+2012,south,127,Uttam Nagar,W,4,True,data/raw/2012/candidates/ward-127-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-127-ward-list-south_1.pdf
+2012,south,128,Bindapur,G,11,True,data/raw/2012/candidates/ward-128-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-128-ward-list-south_1.pdf
+2012,south,129,Dabri,W,6,True,data/raw/2012/candidates/ward-129-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-129-ward-list-south_1.pdf
+2012,south,130,Manglapuri,SCW,3,True,data/raw/2012/candidates/ward-130-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-130-ward-list-south_1.pdf
+2012,south,131,Sagarpur,G,11,True,data/raw/2012/candidates/ward-131-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-131-ward-list-south_1.pdf
+2012,south,132,Sagarpur West,W,5,True,data/raw/2012/candidates/ward-132-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-132-ward-list-south_1.pdf
+2012,south,133,Chhawla,SC,14,True,data/raw/2012/candidates/ward-133-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-133-ward-list-south_1.pdf
+2012,south,134,Nangli Sakravati,G,21,True,data/raw/2012/candidates/ward-134-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-134-ward-list-south_1.pdf
+2012,south,135,Kakraula,W,12,True,data/raw/2012/candidates/ward-135-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-135-ward-list-south_1.pdf
+2012,south,136,Matiala,G,9,True,data/raw/2012/candidates/ward-136-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-136-ward-list-south_1.pdf
+2012,south,137,Roshanpura,W,10,True,data/raw/2012/candidates/ward-137-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-137-ward-list-south_1.pdf
+2012,south,138,Najafgarh,G,14,True,data/raw/2012/candidates/ward-138-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-138-ward-list-south_1.pdf
+2012,south,139,Dichaon Kalan,W,10,True,data/raw/2012/candidates/ward-139-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-139-ward-list-south_1.pdf
+2012,south,140,Khera,SCW,13,True,data/raw/2012/candidates/ward-140-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-140-ward-list-south_1.pdf
+2012,south,141,Bijwasan,G,7,True,data/raw/2012/candidates/ward-141-ward-list-south_0_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-141-ward-list-south_0_1.pdf
+2012,south,141,Bijwasan,G,7,True,data/raw/2012/candidates/ward-141-ward-list-south_2.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-141-ward-list-south_2.pdf
+2012,south,142,Raj Nagar,W,10,True,data/raw/2012/candidates/ward-142-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-142-ward-list-south_1.pdf
+2012,south,143,Kapashera,SC,5,True,data/raw/2012/candidates/ward-143-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-143-ward-list-south_1.pdf
+2012,south,144,Mahipalpur,G,10,True,data/raw/2012/candidates/ward-144-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-144-ward-list-south_1.pdf
+2012,south,145,Palam,W,7,True,data/raw/2012/candidates/ward-145-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-145-ward-list-south_1.pdf
+2012,south,146,Sadh Nagar,G,9,True,data/raw/2012/candidates/ward-146-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-146-ward-list-south_1.pdf
+2012,south,147,Mahavir Enclave,W,9,True,data/raw/2012/candidates/ward-147-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-147-ward-list-south_1.pdf
+2012,south,148,Madhu Vihar,G,10,True,data/raw/2012/candidates/ward-148-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-148-ward-list-south_1.pdf
+2012,north,149,Rajinder Nagar,G,5,True,data/raw/2012/candidates/ward-149-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-149-ward-list-north_1.pdf
+2012,north,150,Pusa,W,9,True,data/raw/2012/candidates/ward-150-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-150-ward-list-north_1.pdf
+2012,north,151,Inderpuri,SC,6,True,data/raw/2012/candidates/ward-151-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-151-ward-list-north_1.pdf
+2012,north,152,Naraina,G,10,True,data/raw/2012/candidates/ward-152-ward-list-north_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-152-ward-list-north_1.pdf
+2012,south,153,Darya Ganj,W,8,True,data/raw/2012/candidates/ward-153-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-153-ward-list-south_1.pdf
+2012,south,154,Nizamuddin,G,5,True,data/raw/2012/candidates/ward-154-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-154-ward-list-south_1.pdf
+2012,south,155,Lajpat Nagar,W,7,True,data/raw/2012/candidates/ward-155-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-155-ward-list-south_1.pdf
+2012,south,156,Bhogal,SCW,6,True,data/raw/2012/candidates/ward-156-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-156-ward-list-south_1.pdf
+2012,south,157,Kasturba Nagar,G,13,True,data/raw/2012/candidates/ward-157-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-157-ward-list-south_1.pdf
+2012,south,158,Kotla Mubarakpur,W,8,True,data/raw/2012/candidates/ward-158-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-158-ward-list-south_1.pdf
+2012,south,159,Andrews Ganj,G,10,True,data/raw/2012/candidates/ward-159-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-159-ward-list-south_1.pdf
+2012,south,160,Amar Colony,W,3,True,data/raw/2012/candidates/ward-160-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-160-ward-list-south_1.pdf
+2012,south,161,Malviya Nagar,G,5,True,data/raw/2012/candidates/ward-161-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-161-ward-list-south_1.pdf
+2012,south,162,Village Hauz Rani,W,5,True,data/raw/2012/candidates/ward-162-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-162-ward-list-south_1.pdf
+2012,south,163,Safdarjang Enclave,G,4,True,data/raw/2012/candidates/ward-163-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-163-ward-list-south_1.pdf
+2012,south,164,Hauz Khas,W,8,True,data/raw/2012/candidates/ward-164-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-164-ward-list-south_1.pdf
+2012,south,165,Vasant Vihar,G,9,True,data/raw/2012/candidates/ward-165-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-165-ward-list-south_1.pdf
+2012,south,166,Munirka,W,6,True,data/raw/2012/candidates/ward-166-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-166-ward-list-south_1.pdf
+2012,south,167,R. K. Puram,SC,6,True,data/raw/2012/candidates/ward-167-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-167-ward-list-south_1.pdf
+2012,south,168,Nanak Pura,G,6,True,data/raw/2012/candidates/ward-168-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-168-ward-list-south_1.pdf
+2012,south,169,Lado Sarai,W,4,True,data/raw/2012/candidates/ward-169-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-169-ward-list-south_1.pdf
+2012,south,170,Mehrauli,G,7,True,data/raw/2012/candidates/ward-170-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-170-ward-list-south_1.pdf
+2012,south,171,Vasant Kunj,SCW,4,True,data/raw/2012/candidates/ward-171-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-171-ward-list-south_1.pdf
+2012,south,172,Kishangarh,W,5,True,data/raw/2012/candidates/ward-172-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-172-ward-list-south_1.pdf
+2012,south,173,Said-ul-Ajaib,G,4,True,data/raw/2012/candidates/ward-173-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-173-ward-list-south_1.pdf
+2012,south,174,Chhatarpur,W,18,True,data/raw/2012/candidates/ward-174-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-174-ward-list-south_1.pdf
+2012,south,175,Aya Nagar,SC,11,True,data/raw/2012/candidates/ward-175-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-175-ward-list-south_1.pdf
+2012,south,176,Bhati,G,16,True,data/raw/2012/candidates/ward-176-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-176-ward-list-south_1.pdf
+2012,south,177,Sangam Vihar,W,21,True,data/raw/2012/candidates/ward-177-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-177-ward-list-south_1.pdf
+2012,south,178,Deoli,G,12,True,data/raw/2012/candidates/ward-178-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-178-ward-list-south_1.pdf
+2012,south,179,Tigri,SCW,7,True,data/raw/2012/candidates/ward-179-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-179-ward-list-south_1.pdf
+2012,south,180,Dakshinpuri Extn.,W,8,True,data/raw/2012/candidates/ward-180-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-180-ward-list-south_1.pdf
+2012,south,181,Khanpur,G,10,True,data/raw/2012/candidates/ward-181-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-181-ward-list-south_1.pdf
+2012,south,182,Ambedkar Nagar,SC,13,True,data/raw/2012/candidates/ward-182-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-182-ward-list-south_1.pdf
+2012,south,183,Madangir,W,9,True,data/raw/2012/candidates/ward-183-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-183-ward-list-south_1.pdf
+2012,south,184,Pushp Vihar,G,9,True,data/raw/2012/candidates/ward-184-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-184-ward-list-south_1.pdf
+2012,south,185,Tughlakabad Extn.,W,9,True,data/raw/2012/candidates/ward-185-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-185-ward-list-south_1.pdf
+2012,south,186,Sangam Vihar West,G,8,True,data/raw/2012/candidates/ward-186-ward-list-south_0_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-186-ward-list-south_0_1.pdf
+2012,south,187,Sangam Vihar Central,W,12,True,data/raw/2012/candidates/ward-187-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-187-ward-list-south_1.pdf
+2012,south,188,Sangam Vihar East,G,11,True,data/raw/2012/candidates/ward-188-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-188-ward-list-south_1.pdf
+2012,south,189,Chirag Delhi,W,3,True,data/raw/2012/candidates/ward-189-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-189-ward-list-south_1.pdf
+2012,south,190,Chitranjan Park,G,5,True,data/raw/2012/candidates/ward-190-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-190-ward-list-south_1.pdf
+2012,south,191,Shahpur Jat,W,7,True,data/raw/2012/candidates/ward-191-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-191-ward-list-south_1.pdf
+2012,south,192,Greater Kailash -I,G,6,True,data/raw/2012/candidates/ward-192-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-192-ward-list-south_1.pdf
+2012,south,193,Sri Niwaspuri,W,7,True,data/raw/2012/candidates/ward-193-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-193-ward-list-south_1.pdf
+2012,south,194,East of Kailash,SCW,4,True,data/raw/2012/candidates/ward-194-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-194-ward-list-south_1.pdf
+2012,south,195,Govindpuri,G,9,True,data/raw/2012/candidates/ward-195-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-195-ward-list-south_1.pdf
+2012,south,196,Kalkaji,W,5,True,data/raw/2012/candidates/ward-196-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-196-ward-list-south_1.pdf
+2012,south,197,Tughlakabad,G,7,True,data/raw/2012/candidates/ward-197-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-197-ward-list-south_1.pdf
+2012,south,198,Pul Pehlad,W,9,True,data/raw/2012/candidates/ward-198-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-198-ward-list-south_1.pdf
+2012,south,199,Tekhand,G,12,True,data/raw/2012/candidates/ward-199-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-199-ward-list-south_1.pdf
+2012,south,200,Harkesh Nagar,SC,9,True,data/raw/2012/candidates/ward-200-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-200-ward-list-south_1.pdf
+2012,south,201,Jaitpur,W,22,True,data/raw/2012/candidates/ward-201-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-201-ward-list-south_1.pdf
+2012,south,202,Meetheypur,G,17,True,data/raw/2012/candidates/ward-202-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-202-ward-list-south_1.pdf
+2012,south,203,Badarpur,SCW,10,True,data/raw/2012/candidates/ward-203-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-203-ward-list-south_1.pdf
+2012,south,204,Molarband,W,8,True,data/raw/2012/candidates/ward-204-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-204-ward-list-south_1.pdf
+2012,south,205,Zakir Nagar,G,24,True,data/raw/2012/candidates/ward-205-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-205-ward-list-south_1.pdf
+2012,south,206,Okhla,W,28,True,data/raw/2012/candidates/ward-206-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-206-ward-list-south_1.pdf
+2012,south,207,Madanpur Khadar,G,14,True,data/raw/2012/candidates/ward-207-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-207-ward-list-south_1.pdf
+2012,south,208,Sarita Vihar,W,7,True,data/raw/2012/candidates/ward-208-ward-list-south_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-208-ward-list-south_1.pdf
+2012,east,209,Mayur Vihar PH-I,W,7,True,data/raw/2012/candidates/ward-209-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-209-ward-list-east_1.pdf
+2012,east,210,Dallopura,SCW,8,True,data/raw/2012/candidates/ward-210-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-210-ward-list-east_1.pdf
+2012,east,211,Trilok Puri,G,15,True,data/raw/2012/candidates/ward-211-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-211-ward-list-east_1.pdf
+2012,east,212,New Ashok Nagar,W,10,True,data/raw/2012/candidates/ward-212-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-212-ward-list-east_1.pdf
+2012,east,213,Kalyan Puri,SC,18,True,data/raw/2012/candidates/ward-213-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-213-ward-list-east_1.pdf
+2012,east,214,Khichri Pur,G,20,True,data/raw/2012/candidates/ward-214-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-214-ward-list-east_1.pdf
+2012,east,215,Kondli,W,18,True,data/raw/2012/candidates/ward-215-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-215-ward-list-east_1.pdf
+2012,east,216,Gharoli,G,10,True,data/raw/2012/candidates/ward-216-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-216-ward-list-east_1.pdf
+2012,east,217,Vinod Nagar,W,7,True,data/raw/2012/candidates/ward-217-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-217-ward-list-east_1.pdf
+2012,east,218,Mandawali,SCW,6,True,data/raw/2012/candidates/ward-218-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-218-ward-list-east_1.pdf
+2012,east,219,Mayur Vihar Phase-II,G,6,True,data/raw/2012/candidates/ward-219-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-219-ward-list-east_1.pdf
+2012,east,220,Patpar Ganj,W,5,True,data/raw/2012/candidates/ward-220-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-220-ward-list-east_1.pdf
+2012,east,221,Kishan Kunj,G,8,True,data/raw/2012/candidates/ward-221-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-221-ward-list-east_1.pdf
+2012,east,222,Laxmi Nagar,W,4,True,data/raw/2012/candidates/ward-222-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-222-ward-list-east_1.pdf
+2012,east,223,Shakarpur,G,13,True,data/raw/2012/candidates/ward-223-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-223-ward-list-east_1.pdf
+2012,east,224,Pandav Nagar,W,11,True,data/raw/2012/candidates/ward-224-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-224-ward-list-east_1.pdf
+2012,east,225,Anand Vihar,G,6,True,data/raw/2012/candidates/ward-225-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-225-ward-list-east_1.pdf
+2012,east,226,Vishwash Nagar,SC,5,True,data/raw/2012/candidates/ward-226-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-226-ward-list-east_1.pdf
+2012,east,227,I.P. Extension,W,5,True,data/raw/2012/candidates/ward-227-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-227-ward-list-east_1.pdf
+2012,east,228,Preet Vihar,G,6,True,data/raw/2012/candidates/ward-228-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-228-ward-list-east_1.pdf
+2012,east,229,Krishna Nagar,W,7,True,data/raw/2012/candidates/ward-229-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-229-ward-list-east_1.pdf
+2012,east,230,Geeta Colony,G,11,True,data/raw/2012/candidates/ward-230-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-230-ward-list-east_1.pdf
+2012,east,231,Ghondli,W,7,True,data/raw/2012/candidates/ward-231-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-231-ward-list-east_1.pdf
+2012,east,232,Anarkali,G,11,True,data/raw/2012/candidates/ward-232-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-232-ward-list-east_1.pdf
+2012,east,233,Dharam Pura,SCW,4,True,data/raw/2012/candidates/ward-233-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-233-ward-list-east_1.pdf
+2012,east,234,Gandhi Nagar,W,7,True,data/raw/2012/candidates/ward-234-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-234-ward-list-east_1.pdf
+2012,east,235,Azad Nagar,G,7,True,data/raw/2012/candidates/ward-235-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-235-ward-list-east_1.pdf
+2012,east,236,Raghubar Pura,W,6,True,data/raw/2012/candidates/ward-236-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-236-ward-list-east_1.pdf
+2012,east,237,Shahdara,SC,5,True,data/raw/2012/candidates/ward-237-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-237-ward-list-east_1.pdf
+2012,east,238,Jhilmil,G,9,True,data/raw/2012/candidates/ward-238-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-238-ward-list-east_1.pdf
+2012,east,239,Vivek Vihar,W,4,True,data/raw/2012/candidates/ward-239-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-239-ward-list-east_1.pdf
+2012,east,240,Dilshad Colony,G,10,False,data/raw/2012/candidates/ward-240-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-240-ward-list-east_1.pdf
+2012,east,241,Dilshad Garden,W,7,True,data/raw/2012/candidates/ward-241-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-241-ward-list-east_1.pdf
+2012,east,242,New Seemapuri,G,14,True,data/raw/2012/candidates/ward-242-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-242-ward-list-east_1.pdf
+2012,east,243,Nand Nagri,SCW,8,True,data/raw/2012/candidates/ward-243-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-243-ward-list-east_1.pdf
+2012,east,244,Sunder Nagri,W,20,True,data/raw/2012/candidates/ward-244-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-244-ward-list-east_1.pdf
+2012,east,245,Durga Puri,SC,6,True,data/raw/2012/candidates/ward-245-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-245-ward-list-east_1.pdf
+2012,east,246,Ashok Nagar,G,10,True,data/raw/2012/candidates/ward-246-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-246-ward-list-east_1.pdf
+2012,east,247,Ram Nagar,W,9,True,data/raw/2012/candidates/ward-247-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-247-ward-list-east_1.pdf
+2012,east,248,Welcome Colony,G,11,True,data/raw/2012/candidates/ward-248-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-248-ward-list-east_1.pdf
+2012,east,249,Chauhan Bangar,W,10,True,data/raw/2012/candidates/ward-249-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-249-ward-list-east_1.pdf
+2012,east,250,Zaffrabad,G,13,True,data/raw/2012/candidates/ward-250-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-250-ward-list-east_1.pdf
+2012,east,251,New Usmanpur,W,6,True,data/raw/2012/candidates/ward-251-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-251-ward-list-east_1.pdf
+2012,east,252,Maujpur,G,10,True,data/raw/2012/candidates/ward-252-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-252-ward-list-east_1.pdf
+2012,east,253,Bhajanpura,W,9,True,data/raw/2012/candidates/ward-253-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-253-ward-list-east_1.pdf
+2012,east,254,Brahampuri,G,16,True,data/raw/2012/candidates/ward-254-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-254-ward-list-east_1.pdf
+2012,east,255,Ghonda,SCW,7,True,data/raw/2012/candidates/ward-255-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-255-ward-list-east_1.pdf
+2012,east,256,Yamuna Vihar,W,6,True,data/raw/2012/candidates/ward-256-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-256-ward-list-east_1.pdf
+2012,east,257,Subhash Mohalla,G,20,True,data/raw/2012/candidates/ward-257-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-257-ward-list-east_1.pdf
+2012,east,258,Kardam Puri,W,6,True,data/raw/2012/candidates/ward-258-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-258-ward-list-east_1.pdf
+2012,east,259,Janta colony,G,8,True,data/raw/2012/candidates/ward-259-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-259-ward-list-east_1.pdf
+2012,east,260,Babarpur,W,7,True,data/raw/2012/candidates/ward-260-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-260-ward-list-east_1.pdf
+2012,east,261,Jiwanpur,G,15,True,data/raw/2012/candidates/ward-261-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-261-ward-list-east_1.pdf
+2012,east,262,Gokalpur,SC,10,True,data/raw/2012/candidates/ward-262-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-262-ward-list-east_1.pdf
+2012,east,263,Saboli,W,12,True,data/raw/2012/candidates/ward-263-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-263-ward-list-east_1.pdf
+2012,east,264,Harsh Vihar,G,14,True,data/raw/2012/candidates/ward-264-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-264-ward-list-east_1.pdf
+2012,east,265,Shiv Vihar,SCW,7,True,data/raw/2012/candidates/ward-265-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-265-ward-list-east_1.pdf
+2012,east,266,Karawal Nagar East,W,15,True,data/raw/2012/candidates/ward-266-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-266-ward-list-east_1.pdf
+2012,east,267,Nehru Vihar,G,15,True,data/raw/2012/candidates/ward-267-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-267-ward-list-east_1.pdf
+2012,east,268,Mustafabad,W,6,True,data/raw/2012/candidates/ward-268-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-268-ward-list-east_1.pdf
+2012,east,269,Khajoori Khas,G,18,True,data/raw/2012/candidates/ward-269-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-269-ward-list-east_1.pdf
+2012,east,270,Tukhmirpur,W,12,True,data/raw/2012/candidates/ward-270-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-270-ward-list-east_1.pdf
+2012,east,271,Karawal Nagar West,G,16,True,data/raw/2012/candidates/ward-271-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-271-ward-list-east_1.pdf
+2012,east,272,Sonia Vihar,W,15,True,data/raw/2012/candidates/ward-272-ward-list-east_1.pdf,https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward-272-ward-list-east_1.pdf

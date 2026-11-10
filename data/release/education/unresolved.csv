@@ -1,0 +1,62 @@
+year,ward,winner_name,education_raw_profile,education_details_profile,profile_url,profile_cache_path,profile_sha256,profile_capture,education_raw_goyal,education_details_goyal,education_raw_tcpd,affidavit_filename_tcpd,graduate_raw_profile,graduate_raw_secondary,category_disagreement,graduate_conflict,affidavit_verified,independent_education_source,education_source,education,graduate,education_status
+2012,3,ARUNA,Not Given,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=420,raw/profiles/2012_420.json.gz,43e7fe0f50f3e2256318c85e4fa3fff208a9230033bf34b90e245e04340f712c,2026-09-12T03:42:43.482303+00:00,,,,,,,False,False,False,,myneta_transcription,Not Given,,secondary_source
+2012,4,REETA,Not Given,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=654,raw/profiles/2012_654.json.gz,19f8ec46006bc89955725138c8f85518a55d6b6ce68d9a4a1dab542080b15131,2026-09-12T03:42:44.353953+00:00,,,,,,,False,False,False,,myneta_transcription,Not Given,,secondary_source
+2012,17,MAMTA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,25,DEVENDER SOLANKI,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,26,SHARADHANAND SANGWAN,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,27,JAG ROSHANI,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,28,DEVENDER KUMAR,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,38,MANJU DEVI,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,40,MANISHA GUPTA   ,Not Given,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=1851,raw/profiles/2012_1851.json.gz,4ad8e6a971c55c07cf60c4913fe49bd09c09009f97493fc5bf138ca053e9b665,2026-09-12T03:42:44.634878+00:00,,,,,,,False,False,False,,myneta_transcription,Not Given,,secondary_source
+2012,52,NEELAM GOEL,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,67,DR. MAHENDER NAGPAL,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,86,IMRAN HUSSAIN,Others,"BBS, Jamia Millia Islamia Univercity Year-2005",https://www.myneta.info/mcd2012/candidate.php?candidate_id=1415,raw/profiles/2012_1415.json.gz,206f18457b317c2f8edacdb7be245b117baa3c68443d0f9185036c80fccb342e,2026-09-12T03:42:49.627556+00:00,Others,"BBS, Jamia Millia Islamia Univercity Year-2005",,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2012,98,USHA MEHTA,Others,"Book Publishing From College of Vocational Studies University of Delhi, 1982",https://www.myneta.info/mcd2012/candidate.php?candidate_id=198,raw/profiles/2012_198.json.gz,015225146fab40375e07da1d3ec2a4f69108e3b1a6a5fdd4416bd864d195596f,2026-09-12T03:42:51.744623+00:00,Others,"Book Publishing From College of Vocational Studies University of Delhi, 1982",,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2012,102,PRADEEP SHARMA,Others,3 Year Diploma in Electrical Engineering With Distinction From Kashmere Gate Polytechinc in Year-1979,https://www.myneta.info/mcd2012/candidate.php?candidate_id=517,raw/profiles/2012_517.json.gz,9cb7dfb419edd72f42277beed01d3b9284619c21b45924df7b9f9dc89f88b1c7,2026-09-12T03:42:27.447766+00:00,Others,3 Year Diploma in Electrical Engineering With Distinction From Kashmere Gate Polytechinc in Year-1979,,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2012,106,SUNITA SUBASH YADAV,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,120,VIMLA DEVI,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,140,RAJ KUMARI,Unknown,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=235,raw/profiles/2012_235.json.gz,eddbd5470c2bca2960818d0cd5c9e78f5a1f190635e84861d0294bf7445581bb,2026-09-12T03:42:52.408766+00:00,,,,,,,False,False,False,,myneta_transcription,Unknown,,secondary_source
+2012,160,SAVITA GUPTA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,164,ANKITA SAINI,Others,DIPLOMA IN INTERNATIONAL BUSINESS MARKITING -COMPLETED IN 2008 FROM HUMBER COLLAGE TORONTO,https://www.myneta.info/mcd2012/candidate.php?candidate_id=295,raw/profiles/2012_295.json.gz,ed9bf3637908af332c919f3bcc298e7866e3aeb4d021ebe0cc98f8589a7e3062,2026-09-12T03:42:33.877318+00:00,Others,DIPLOMA IN INTERNATIONAL BUSINESS MARKITING -COMPLETED IN 2008 FROM HUMBER COLLAGE TORONTO,,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2012,166,PARMILA TOKAS,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,172,KUSUM KHATRI,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,176,KARTAR SINGH TANWAR,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,201,SIKHA SHAH,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,202,DHARMVIR AWANA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,203,SMT PHOOL KALI ,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,204,SMT. TIMSHI KASANA ,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,208,NEETU,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,209,GURMEET KAUR,Unknown,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=619,raw/profiles/2012_619.json.gz,f5ab33e401dddb9bb57cfe8257047fb07a19d6a5d53380c5e132325c538b9c06,2026-09-12T03:42:37.944963+00:00,,,,,,,False,False,False,,myneta_transcription,Unknown,,secondary_source
+2012,211,KAMAL,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,212,NIKKI SINGH,Not Given,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=343,raw/profiles/2012_343.json.gz,d0dd375cfbe4080d1e69d60c090e03a3dcce079b06e2d993d97d80a3feeab4d6,2026-09-12T03:42:38.388603+00:00,,,,,,,False,False,False,,myneta_transcription,Not Given,,secondary_source
+2012,213,RAJ KUMAR,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,225,MAHINDRA KUMAR AHUJA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,226,RATAN SINGH,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,227,GEETA SHARMA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,228,GURUCHARAN SINGH,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,231,MS. ISHRAT JAHAN,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,250,SHAKILA BEGUM,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,251,SATYA SHARMA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,252,SANJAY JAIN,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,253,REKHA RANI,Not Given,,https://www.myneta.info/mcd2012/candidate.php?candidate_id=668,raw/profiles/2012_668.json.gz,62de846dc6c1f121d8b21243e1cbbb09a7556cc57aeccb8aeda5601312233126,2026-09-12T03:42:41.945959+00:00,,,,,,,False,False,False,,myneta_transcription,Not Given,,secondary_source
+2012,254,MAHAK SINGH,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,258,CHANDA SHARMA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,259,ZAKIR KHAN,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,269,AAS MOHAMMAD,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,270,ANITA SHARMA,,,,,,,,,,,,,False,False,False,,,,,missing
+2012,271,DHARMENDRA SINGH,,,,,,,,,,,,,False,False,False,,,,,missing
+2017,2-S,KAILASH SANKLA,Others,BPP QUALIFIED FROM IGNOU MAIDAN GARHI NEW DELHI IN 1988,https://www.myneta.info/delhi2017/candidate.php?candidate_id=2002,raw/profiles/2017_2002.json.gz,19d55c2afbd8580abaa90b03fd7ea68c0e2010733cce8f45944e920c8e4909ea,2026-09-12T03:42:55.400612+00:00,Others,BPP QUALIFIED FROM IGNOU MAIDAN GARHI NEW DELHI IN 1988,,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2017,6-E,JUGNU,,,,,,,,,,,,,False,False,False,,,,,missing
+2017,16-N,MUKESH KUMAR GOEL,,,,,,,,,,,,,False,False,False,,,,,missing
+2017,21-E,SANDEEP KAPOOR,Others,"ENGINEERING DIPLOMA FROM ARYABHAT POLYTECHNIC, G T KARNAL ROAD DELHI 1986",https://www.myneta.info/delhi2017/candidate.php?candidate_id=252,raw/profiles/2017_252.json.gz,ed9f6be5d18e4c2eb0872795d34736ee41fa8327ab4ef8a4d7cf45fc945c7f60,2026-09-12T03:43:01.626929+00:00,Others,"ENGINEERING DIPLOMA FROM ARYABHAT POLYTECHNIC, G T KARNAL ROAD DELHI 1986",,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2017,24-S,POONAM SOLANKI,,,,,,,,,,,,,False,False,False,,,,,missing
+2017,50-N,VINAY RAWAT,12th Pass,"I PASSED MADHYAMA FROM HINDI SAHITYA SAMMELLAN, ALLAHABAD UP IN 2014",https://www.myneta.info/delhi2017/candidate.php?candidate_id=1470,raw/profiles/2017_1470.json.gz,249155b483f3d620752a30e0916351376f1ccddfc7365402a98b4e2ec3bc9322,2026-09-12T03:43:10.522149+00:00,8th Pass,"I PASSED MADHYAMA FROM HINDI SAHITYA SAMMELLAN, ALLAHABAD UP IN 2014",,,0,0,True,False,False,,myneta_transcription,,0,category_conflict
+2017,54-E,HARI PRAKASH BAHADUR,Others,Diploma In Electronics From SMIT College Jalgaon In 1998,https://www.myneta.info/delhi2017/candidate.php?candidate_id=720,raw/profiles/2017_720.json.gz,21910b68ae7ae8c9e43272c9160af51479bf5e9090a9fe754111aa0c2f0bd052,2026-09-12T03:43:11.797944+00:00,Others,Diploma In Electronics From SMIT College Jalgaon In 1998,,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2017,65-S,TULSI JOSHI,Others,"POST GRADUATE DIPLOMA IN HUMAN RESOURSE MANAGEMENT (PGDHRM) FROM SYMBOSIS CENTRE FOR DISTANCE LEARNING PUNE, IN 2009",https://www.myneta.info/delhi2017/candidate.php?candidate_id=802,raw/profiles/2017_802.json.gz,f8483ad519a9f23444ddb34280e06dd5caa871092e53a09e4603d9b31ac6324b,2026-09-12T03:43:16.388977+00:00,Others,"POST GRADUATE DIPLOMA IN HUMAN RESOURSE MANAGEMENT (PGDHRM) FROM SYMBOSIS CENTRE FOR DISTANCE LEARNING PUNE, IN 2009",,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2017,71-N,MANJU SANJAY SHARMA,,,,,,,,,,,,,False,False,False,,,,,missing
+2017,90-S,MANPREET KAUR KALRA,Others,DIPLOMA IN HOME SCIENCE IN 1989,https://www.myneta.info/delhi2017/candidate.php?candidate_id=1465,raw/profiles/2017_1465.json.gz,5203d7027bf8878d990cd43561c1bf4307c83d780da49b15982762f60f740244,2026-09-12T03:43:21.337534+00:00,Others,DIPLOMA IN HOME SCIENCE IN 1989,,,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2022,15,Mukesh Kumar Goel,Others,"Utama in Economics (Sahitya Ratna), Hindi Sahitya Sammelan Allahabad (Hindi University) in 1982",https://www.myneta.info/Delhi2022/candidate.php?candidate_id=5017,raw/profiles/2022_5017.json.gz,cd5996c105831f3c7db104b5a192ef52db0249156db81f7c2ae898ce0ffd1f83,2026-09-12T03:43:34.554470+00:00,,,Graduate,ward15_6179_1668444127_MukeshKumarGoel_file.pdf,,1,False,False,False,,myneta_transcription,Others,,secondary_source
+2022,100,RAMINDER KAUR,Others,Diploma in Nursery Teacher Training from Mata Raj Kauran Chadha Nursery Teachers Training Institute in 1995,https://www.myneta.info/Delhi2022/candidate.php?candidate_id=5767,raw/profiles/2022_5767.json.gz,268eacdba978df1ae0c5ab9945f8d9e333e23a2a6ead90c33f0d3ef597b933cf,2026-09-12T03:43:29.199825+00:00,,,Other,ward100_6217_1668414955_RAMINDERKAUR_file.pdf,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2022,134,POONAM BHARDWAJ,8th Pass,Under Metric (Board of school Education Bhiwani Haryana),https://www.myneta.info/Delhi2022/candidate.php?candidate_id=6081,raw/profiles/2022_6081.json.gz,97adf5317513b57484aa2a9ac3706302175e6dd3e9d7b445aaa751fe6fa0d9f4,2026-09-12T03:43:32.871419+00:00,,,Graduate,ward134_6194_1668440506_POONAMBHARDWAJ_file.pdf,0,1,False,True,False,,myneta_transcription,,,graduate_conflict
+2022,200,YASHPAL SINGH,Others,Diploma in Electronics & Telecommunication Engineering from U.P. Techinical Board in 1993 & One Year Specialization Course in Telecommunication from ERTL Delhi,https://www.myneta.info/Delhi2022/candidate.php?candidate_id=5526,raw/profiles/2022_5526.json.gz,a2f11ac738eb9423dfaf9047762d5179610164f57a990dd218f9794fbbfaae55,2026-09-12T03:43:39.794101+00:00,,,Other,ward200_6242_1668873978_YASHPALSINGH_file.pdf,,,False,False,False,,myneta_transcription,Others,,secondary_source
+2022,211,SANDEEP KAPOOR,Others,"Diploma in Engineering Pass Aryabhat Politechnic in 1986, Govt. Boys Sr. Sec. School, Krishna Nagar, Delhi in 1983",https://www.myneta.info/Delhi2022/candidate.php?candidate_id=5511,raw/profiles/2022_5511.json.gz,b16d0494d8709b29f7e6efa596dc8e2b84798347d5e448cc0b828546838cf737,2026-09-12T03:43:41.986445+00:00,,,Other,ward211_6205_1668421397_SANDEEPKAPOOR_file.pdf,,,False,False,False,,myneta_transcription,Others,,secondary_source

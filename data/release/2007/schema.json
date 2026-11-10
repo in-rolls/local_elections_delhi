@@ -1,0 +1,63 @@
+{
+  "candidates": {
+    "rows": 2570,
+    "key": [
+      "year",
+      "ward",
+      "rank"
+    ],
+    "columns": {
+      "year": "int64",
+      "ward": "string",
+      "ward_name": "string",
+      "reservation": "string",
+      "electors": "int64",
+      "reported_total_votes": "int64",
+      "rank": "int64",
+      "candidate_name": "string",
+      "party": "string",
+      "votes": "int64",
+      "source_row": "int64",
+      "is_winner": "bool",
+      "quota": "bool",
+      "candidate_source": "string",
+      "source_sheet": "string",
+      "education": "string",
+      "graduate": "int64",
+      "sex_raw_goyal": "string",
+      "sex": "string",
+      "sex_source": "string"
+    }
+  },
+  "winners": {
+    "rows": 272,
+    "key": [
+      "year",
+      "ward"
+    ],
+    "columns": {
+      "year": "int64",
+      "ward": "string",
+      "ward_name": "string",
+      "reservation": "string",
+      "electors": "int64",
+      "reported_total_votes": "int64",
+      "rank": "int64",
+      "candidate_name": "string",
+      "party": "string",
+      "votes": "int64",
+      "source_row": "int64",
+      "is_winner": "bool",
+      "quota": "bool",
+      "candidate_source": "string",
+      "source_sheet": "string",
+      "education": "string",
+      "graduate": "int64",
+      "sex_raw_goyal": "string",
+      "sex": "string",
+      "sex_source": "string",
+      "runner_up_votes": "int64",
+      "margin": "int64"
+    }
+  }
+}

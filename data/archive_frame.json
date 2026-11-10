@@ -1,0 +1,74 @@
+[
+  {
+    "original_url": "http://sec.delhigovt.nic.in/election-result-mcd-2012",
+    "timestamp": "20220630130426",
+    "archive_digest": "AFZ7HKWVDD6L7BMAIACYBCSHZLFR5YNA",
+    "path": "data/raw/archive/capture_20220630130426.html",
+    "url": "https://web.archive.org/web/20220630130426id_/http://sec.delhigovt.nic.in/election-result-mcd-2012",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/sites/default/files/ward-2-mcd-2012.pdf",
+    "timestamp": "20221004194542",
+    "archive_digest": "KDXNGKW2GVMDVTYHTQ4VYKJD7AZ5TF4D",
+    "path": "data/raw/archive/capture_20221004194542.pdf",
+    "url": "https://web.archive.org/web/20221004194542id_/http://sec.delhigovt.nic.in/sites/default/files/ward-2-mcd-2012.pdf",
+    "kind": "pdf"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=2",
+    "timestamp": "20201029220640",
+    "archive_digest": "F5Z2VII7I77XZFUCWSZW2KKD3EZMBGVP",
+    "path": "data/raw/archive/capture_20201029220640.html",
+    "url": "https://web.archive.org/web/20201029220640id_/http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=2",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=3",
+    "timestamp": "20201029225806",
+    "archive_digest": "LXABB2YRB4ACCE5OIOFS4RWRJ2RD2KUW",
+    "path": "data/raw/archive/capture_20201029225806.html",
+    "url": "https://web.archive.org/web/20201029225806id_/http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=3",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=4",
+    "timestamp": "20201029220827",
+    "archive_digest": "YJC5NDHQRQOU5K57NRKQI7ZU5A6Q3354",
+    "path": "data/raw/archive/capture_20201029220827.html",
+    "url": "https://web.archive.org/web/20201029220827id_/http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=4",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=5",
+    "timestamp": "20201029230136",
+    "archive_digest": "WV6FBQVO2DI57ETUYBS6RPMXVPF5ZDRJ",
+    "path": "data/raw/archive/capture_20201029230136.html",
+    "url": "https://web.archive.org/web/20201029230136id_/http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=5",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi+State+Election+Commission/Latest+Updates/M+C+D+Election+2012",
+    "timestamp": "20201001211418",
+    "archive_digest": "VR6KIJUOIE7SX5FTTQZOKRWDD5KENTLB",
+    "path": "data/raw/archive/capture_20201001211418.html",
+    "url": "https://web.archive.org/web/20201001211418id_/http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi+State+Election+Commission/Latest+Updates/M+C+D+Election+2012",
+    "kind": "html"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/sites/default/files/ward-105-mcd-12.pdf",
+    "timestamp": "20221004190214",
+    "archive_digest": "7IJCJGWEAQI4RS727AAD3FBBQ2WTKL7T",
+    "path": "data/raw/archive/capture_20221004190214.pdf",
+    "url": "https://web.archive.org/web/20221004190214id_/http://sec.delhigovt.nic.in/sites/default/files/ward-105-mcd-12.pdf",
+    "kind": "pdf"
+  },
+  {
+    "original_url": "http://sec.delhigovt.nic.in/wps/wcm/connect/0d9538804acece07847ad4f1df26f9db/Ward-270.pdf?MOD=AJPERES&lmod=-341357430",
+    "timestamp": "20200702132643",
+    "archive_digest": "4UQUS3L43VWNC2KFYKOGTJ75DQQWLVPC",
+    "path": "data/raw/archive/capture_20200702132643.pdf",
+    "url": "https://web.archive.org/web/20200702132643id_/http://sec.delhigovt.nic.in/wps/wcm/connect/0d9538804acece07847ad4f1df26f9db/Ward-270.pdf?MOD=AJPERES&lmod=-341357430",
+    "kind": "pdf"
+  }
+]

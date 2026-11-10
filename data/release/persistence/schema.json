@@ -1,0 +1,220 @@
+{
+  "wards_2007_2012": {
+    "primary_key": [
+      "year",
+      "ward_no"
+    ],
+    "rows": 272,
+    "fields": [
+      {
+        "name": "year",
+        "arrow_type": "int16",
+        "nullable": false,
+        "description": "Outcome election year: 2012."
+      },
+      {
+        "name": "prior_year",
+        "arrow_type": "int16",
+        "nullable": false,
+        "description": "Prior reservation election year: 2007."
+      },
+      {
+        "name": "ward_no",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Outcome-election ward identifier."
+      },
+      {
+        "name": "prior_ward_no",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Prior-election ward identifier."
+      },
+      {
+        "name": "body",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 municipal corporation, from the SEC candidate-list frame."
+      },
+      {
+        "name": "prior_body",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Municipal Corporation of Delhi in 2007."
+      },
+      {
+        "name": "ward_name",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 ward name, as printed in the SEC result report."
+      },
+      {
+        "name": "prior_ward_name",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2007 ward name, as printed in the SEC spreadsheet."
+      },
+      {
+        "name": "link_basis",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "The 2012 order distributes the existing 2007 wards among three corporations."
+      },
+      {
+        "name": "link_source_path",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Repository-relative continuity notification."
+      },
+      {
+        "name": "link_source_page",
+        "arrow_type": "int16",
+        "nullable": false,
+        "description": "One-based physical PDF page establishing continuity."
+      },
+      {
+        "name": "link_source_sha256",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "SHA-256 of the continuity notification."
+      },
+      {
+        "name": "reserved_raw",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 recorded category: G/W/SC/SCW."
+      },
+      {
+        "name": "prior_reserved_raw",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2007 recorded category: G/W/SC/SCW."
+      },
+      {
+        "name": "reserved_woman",
+        "arrow_type": "int8",
+        "nullable": true,
+        "description": "2012 women quota: 1=yes, 0=no; independent of winner sex."
+      },
+      {
+        "name": "prior_reserved_woman",
+        "arrow_type": "int8",
+        "nullable": true,
+        "description": "2007 women quota: 1=yes, 0=no; independent of winner sex."
+      },
+      {
+        "name": "reserved_caste",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 caste quota: NONE or SC."
+      },
+      {
+        "name": "prior_reserved_caste",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2007 caste quota: NONE or SC."
+      },
+      {
+        "name": "winner",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 winner name from the SEC result report."
+      },
+      {
+        "name": "winner_woman_raw",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Unchanged Goyal winner sex code: F or M."
+      },
+      {
+        "name": "winner_woman",
+        "arrow_type": "int8",
+        "nullable": true,
+        "description": "Selected 2012 winner sex: 1=female, 0=male, null=unresolved."
+      },
+      {
+        "name": "winner_woman_source",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "Selected winner sex source recorded by the 2012 release."
+      },
+      {
+        "name": "winner_woman_decision",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "source_retained, correct, or unresolved; no name/quota inference."
+      },
+      {
+        "name": "winner_woman_review_url",
+        "arrow_type": "string",
+        "nullable": true,
+        "description": "Evidence URL from the pinned sex-review ledger, if reviewed."
+      },
+      {
+        "name": "winner_woman_review_evidence",
+        "arrow_type": "string",
+        "nullable": true,
+        "description": "Verbatim evidence note from the pinned sex-review ledger."
+      },
+      {
+        "name": "reserved_source_path",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2012 official result report supporting reservation and winner identity."
+      },
+      {
+        "name": "reserved_source_page",
+        "arrow_type": "int16",
+        "nullable": false,
+        "description": "One-based physical 2012 result-report page."
+      },
+      {
+        "name": "reserved_source_sha256",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "SHA-256 of the official 2012 result report."
+      },
+      {
+        "name": "prior_reserved_source_path",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "2007 SEC election spreadsheet."
+      },
+      {
+        "name": "prior_reserved_source_row",
+        "arrow_type": "int32",
+        "nullable": false,
+        "description": "One-based spreadsheet winner row; Detailed Result sheet."
+      },
+      {
+        "name": "prior_reserved_source_sha256",
+        "arrow_type": "string",
+        "nullable": false,
+        "description": "SHA-256 of the official 2007 spreadsheet."
+      }
+    ]
+  },
+  "ward_links": {
+    "primary_key": [
+      "prior_year",
+      "year",
+      "prior_ward_no",
+      "ward_no"
+    ],
+    "rows": 272,
+    "fields": [
+      "year",
+      "prior_year",
+      "ward_no",
+      "prior_ward_no",
+      "body",
+      "prior_body",
+      "ward_name",
+      "prior_ward_name",
+      "link_basis",
+      "link_source_path",
+      "link_source_page",
+      "link_source_sha256"
+    ]
+  }
+}

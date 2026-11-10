@@ -1,0 +1,9 @@
+{
+  "dictionary.md": "3280c36a206fb1c55dd119c6b02cbcd196e8bdbf4bbcb4444ca49e767f16211d",
+  "profile.json": "5dbee043ff7b31a90b8a846ca81565f5c579cde7de2c6b84406d9753b59ebe9a",
+  "schema.json": "1879eb43789f87c95605d3d1ab7779ad50524df1b9e3b30e24d9c1da3a81be04",
+  "sources.json": "561ccbee7512771e1cb4bdd4d0a977e9397d421092abc97fccbc38ed137a336a",
+  "ward_links.parquet": "e1496d845855873e3e5a333408a9e6f372b6b58ab6a969eca9775ba08e46d18c",
+  "ward_name_differences.csv": "b6a267bec583ee36a334f8021bbdc74b31f61ad06c07a5941c37a34a5ae7f1e5",
+  "wards_2007_2012.parquet": "379fb8663656fa8788b9941d1f935e754fe888429ddc147759f93edd5fe73f4a"
+}

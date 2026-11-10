@@ -1,0 +1,14 @@
+{
+  "year": 2012,
+  "wards": 272,
+  "candidate_list_files": 273,
+  "candidates": 2423,
+  "reservations": {
+    "W": 114,
+    "G": 112,
+    "SCW": 24,
+    "SC": 22
+  },
+  "winner_report_wards": 272,
+  "sources_verified": 335
+}

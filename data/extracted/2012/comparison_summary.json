@@ -1,0 +1,27 @@
+{
+  "assets_jointly_recorded": 234,
+  "assets_exact_agreement": 0.9700854700854701,
+  "goyal_candidates": 2423,
+  "sec_candidates": 2423,
+  "varun_candidates": 2308,
+  "varun_2012_ward_missing": 2308,
+  "varun_winners_matched_to_sec": 269,
+  "winner_votes_agree": 272,
+  "winner_reservations_agree": 272,
+  "graduate_comparisons": [
+    {
+      "source": "goyal",
+      "jointly_classified": 226,
+      "agreement": 1.0,
+      "chance_agreement": 0.514135797634897
+    },
+    {
+      "source": "varun",
+      "jointly_classified": 183,
+      "agreement": 0.5355191256830601,
+      "chance_agreement": 0.5324733494580309
+    }
+  ],
+  "missing_sex": 10,
+  "missing_winner_sex": 1
+}

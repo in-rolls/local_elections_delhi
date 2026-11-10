@@ -1,0 +1,6 @@
+ward,source_file,source_page,source_sha256,valid_votes_signed,rejected_votes_signed,tendered_votes_signed,note
+27,data/raw/2022/returns/ward_27.pdf,1,35169b3fc0724bfde1d64b195cf3ebd42298bc624f250bf749ddcfffc1433115,37346,8,5,Printed valid total exceeds candidate plus NOTA sum by 8; preserve discrepancy.
+41,data/raw/2022/returns/ward_41.pdf,1,d61215558aab9448072182e0635e727033d8f8b97c37d97a1a82852b4350cb00,30704,2,0,Compiled totals are truncated.
+157,data/raw/2022/returns/ward_157.pdf,1,48233824c997d06858ac087e5e3d994b0d39bbf05a56135a0c0a98f9e8658235,27518,0,0,Confirms Pooja 79 and Bineeta Sharma 103; report agrees.
+212,data/raw/2022/returns/ward_212.jpeg,1,1caa2af9d5f633aaf947ace6ae72dbfcb2c68852aa0a6a4dca846b1e6c6583f2,25968,0,0,Compiled valid total is one too high.
+236,data/raw/2022/returns/ward_236.pdf,1,c5ab7c45cf8483fd472b2a0f2e43f1ebe8557f4dbbbf27b93063f7d299f38a3c,31513,7,0,Winner 15069; report incorrectly gives 15070.

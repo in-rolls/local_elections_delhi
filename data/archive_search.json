@@ -1,0 +1,1392 @@
+{
+  "searched_at": "2026-11-09T00:31:00.792805+00:00",
+  "domain": "sec.delhigovt.nic.in",
+  "records": [
+    {
+      "urlkey": "in,nic,delhigovt,sec)/contesting-candidates-2012",
+      "timestamp": "20220630124641",
+      "original": "http://sec.delhigovt.nic.in/contesting-candidates-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "NHNVWY67GDSXV25ILOVM5UADTFHLF5FL",
+      "length": 12472
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/election-result-mcd-2012",
+      "timestamp": "20220630130426",
+      "original": "http://sec.delhigovt.nic.in/election-result-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "AFZ7HKWVDD6L7BMAIACYBCSHZLFR5YNA",
+      "length": 12474
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/hi/election-result-mcd-2012",
+      "timestamp": "20220818065504",
+      "original": "http://sec.delhigovt.nic.in/hi/election-result-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "7DRJUGT2YZ5EBOWHFPGJ343BGOL55QUS",
+      "length": 13620
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/hi/ward-105-rajouri-garden-mcd-2012",
+      "timestamp": "20221004194140",
+      "original": "http://sec.delhigovt.nic.in/hi/ward-105-rajouri-garden-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "2B2XHKU6GMZZQLVX6A2P3RPN3RKWYMD2",
+      "length": 11709
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/hi/ward-2-bankner-mcd-2012",
+      "timestamp": "20221004204221",
+      "original": "http://sec.delhigovt.nic.in/hi/ward-2-bankner-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "CYZO4TN3Y2R6KJLC3WVBH7R5VPDNY5T4",
+      "length": 11682
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/mcd-election-2012",
+      "timestamp": "20220630141827",
+      "original": "http://sec.delhigovt.nic.in/mcd-election-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "SJFWN3ZXWYM5EDQV5G6RQMD5UD42IACO",
+      "length": 11372
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/delhi%20election%20rules%202012.pdf",
+      "timestamp": "20220630123243",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/delhi%20election%20rules%202012.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "MNFXNLGRPPENSP6DKCTS2UX5DQHIR5JS",
+      "length": 959385
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/ward-2-mcd-2012.pdf",
+      "timestamp": "20221004194542",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/ward-2-mcd-2012.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "KDXNGKW2GVMDVTYHTQ4VYKJD7AZ5TF4D",
+      "length": 9159
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-1-narela-mcd-2012",
+      "timestamp": "20220818074458",
+      "original": "http://sec.delhigovt.nic.in/ward-1-narela-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "VGI43XNWRVAZ365YYAPQD5XECVVLJ65O",
+      "length": 10789
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-10-timarpur-mcd-2012",
+      "timestamp": "20220818083008",
+      "original": "http://sec.delhigovt.nic.in/ward-10-timarpur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "TCC6UQB5KDN3I6HKYUJFRNOVEHV4LTAJ",
+      "length": 10790
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-101-raja-garden-mcd-2012",
+      "timestamp": "20220818071742",
+      "original": "http://sec.delhigovt.nic.in/ward-101-raja-garden-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "2BOZ4KG7Q4IZ2TWOJX5BVECI2FCFGSFB",
+      "length": 10803
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-102-raghubir-nagar-mcd-2012",
+      "timestamp": "20220818083427",
+      "original": "http://sec.delhigovt.nic.in/ward-102-raghubir-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "VMEDDDNOMFW6YIDLO74Z2P52QQ5AG2R7",
+      "length": 10806
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-103-punjabi-bagh-mcd-2012",
+      "timestamp": "20220818084203",
+      "original": "http://sec.delhigovt.nic.in/ward-103-punjabi-bagh-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "SNRQUKVCF2AFY6OINBOTAMCUBA6FB7ZX",
+      "length": 10813
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-104-madipur-mcd-2012",
+      "timestamp": "20220818082009",
+      "original": "http://sec.delhigovt.nic.in/ward-104-madipur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "QYOSFKJZKH2FKYOSFU6ZYU54Q4Y6BCAF",
+      "length": 10798
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-105-rajouri-garden-mcd-2012",
+      "timestamp": "20220818073420",
+      "original": "http://sec.delhigovt.nic.in/ward-105-rajouri-garden-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "LLVMHDU35X3EIBJ7VRBR5XKPOBM5O5NI",
+      "length": 10808
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-106-tegore-garden-mcd-2012",
+      "timestamp": "20220818080115",
+      "original": "http://sec.delhigovt.nic.in/ward-106-tegore-garden-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "FSO5WWCLAL74EPRTDD5EU4L2XMRSML2J",
+      "length": 10805
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-107-vishnu-garden-mcd-2012",
+      "timestamp": "20220818073605",
+      "original": "http://sec.delhigovt.nic.in/ward-107-vishnu-garden-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "7TNNHYLMHN7MGMEQZIFJSGYAOW6I3S76",
+      "length": 10808
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-108-khyala-mcd-2012",
+      "timestamp": "20220818073101",
+      "original": "http://sec.delhigovt.nic.in/ward-108-khyala-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "MWTXTDC2UPTZKYYXJHX2JXXEMFRITGMT",
+      "length": 10786
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-109-janakpuri-north-mcd-2012",
+      "timestamp": "20220818064625",
+      "original": "http://sec.delhigovt.nic.in/ward-109-janakpuri-north-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "JOWGRIG3GAJOJQCJFZGGQBXSPZBOSG3F",
+      "length": 10812
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-110-nangal-raya-mcd-2012",
+      "timestamp": "20220818082227",
+      "original": "http://sec.delhigovt.nic.in/ward-110-nangal-raya-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "EPFM3P42D6LX7EOHCIRNI6E46TKH75VJ",
+      "length": 10803
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-111-hari-nagar-mcd-2012",
+      "timestamp": "20220818075145",
+      "original": "http://sec.delhigovt.nic.in/ward-111-hari-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "NMZA3BESNRL5VJAIHY7EV7XGJUXN43IM",
+      "length": 10797
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-112-subhash-nagar-mcd-2012",
+      "timestamp": "20220818083049",
+      "original": "http://sec.delhigovt.nic.in/ward-112-subhash-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "U7OGJFQWG4MVBBCQY2M5V6TQNP7D3LKN",
+      "length": 10811
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-113-mahavir-nagar-mcd-2012",
+      "timestamp": "20220818082307",
+      "original": "http://sec.delhigovt.nic.in/ward-113-mahavir-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "RWMKHRKOHDWN7KA5KFY6T2WXA7O27PVC",
+      "length": 10809
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-114-tilak-nagar-mcd-2012",
+      "timestamp": "20220818074026",
+      "original": "http://sec.delhigovt.nic.in/ward-114-tilak-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "ZWWJS2W7C6ULLYRIPE56RYIALM4S6K37",
+      "length": 10807
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-115-major-bhupinder-singh-nagar-mcd-2012",
+      "timestamp": "20220818080740",
+      "original": "http://sec.delhigovt.nic.in/ward-115-major-bhupinder-singh-nagar-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "2GLZ5GPN4JMKG5OYVSVCO6WPEP65VSFN",
+      "length": 10831
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-2-bankner-mcd-2012",
+      "timestamp": "20220818070902",
+      "original": "http://sec.delhigovt.nic.in/ward-2-bankner-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "GQW5LGCC3CWAAS25PWN4AN5VTTVBVUBG",
+      "length": 10788
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-3-alipur-mcd-2012",
+      "timestamp": "20220818074838",
+      "original": "http://sec.delhigovt.nic.in/ward-3-alipur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "2M6YV6YTHMD3UC3I6WCN3THGLA3WGW5G",
+      "length": 10783
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-4-bakhtawar-pur-mcd-2012",
+      "timestamp": "20220818071102",
+      "original": "http://sec.delhigovt.nic.in/ward-4-bakhtawar-pur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "PTGROYQEFC6KSQ7HE4U5PYB3X5BTXEST",
+      "length": 10794
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-5-bhalswa-jahangir-pur-mcd-2012",
+      "timestamp": "20220818084443",
+      "original": "http://sec.delhigovt.nic.in/ward-5-bhalswa-jahangir-pur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "SCTDALUK24JQNNFMMDPZOPQCDC22UE46",
+      "length": 10813
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-6-mukund-pur-mcd-2012",
+      "timestamp": "20220818073645",
+      "original": "http://sec.delhigovt.nic.in/ward-6-mukund-pur-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "JGSF5YCV6BB5DJT4JKCTJBAS45QOOXWC",
+      "length": 10806
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-7-burari-mcd-2012",
+      "timestamp": "20220818072238",
+      "original": "http://sec.delhigovt.nic.in/ward-7-burari-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "G2GLRYO4UYDU2YHOLROJAWIK26WBPCLX",
+      "length": 10784
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-8-jharoda-mcd-2012",
+      "timestamp": "20220818080531",
+      "original": "http://sec.delhigovt.nic.in/ward-8-jharoda-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "MXEHII62TRC52FEZOIE53CPNDIAEDRQB",
+      "length": 10788
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/ward-9-malka-ganj-mcd-2012",
+      "timestamp": "20220818075722",
+      "original": "http://sec.delhigovt.nic.in/ward-9-malka-ganj-mcd-2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "FHD5UL3VHFLS7TTIIBS2B42OKXA5E65U",
+      "length": 10798
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/b72d0e004a7bdaf79204d372d2eb9c1f/dmc+rule-2012+final.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029215856",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/b72d0e004a7bdaf79204d372d2eb9c1f/DMC+RULE-2012+final.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "UTJTWZDKCEGOBEONID6SZUB7U3AD3HWJ",
+      "length": 229078
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi%20state%20election%20commission/latest%20updates/m%20c%20d%20election%202012?wcm_page.0c51d6004a510c878a25db72d2eb9c1f=2&wcm_pi=1",
+      "timestamp": "20201029220640",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=2",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "F5Z2VII7I77XZFUCWSZW2KKD3EZMBGVP",
+      "length": 4312
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi%20state%20election%20commission/latest%20updates/m%20c%20d%20election%202012?wcm_page.0c51d6004a510c878a25db72d2eb9c1f=3&wcm_pi=1",
+      "timestamp": "20201029225806",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=3",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "LXABB2YRB4ACCE5OIOFS4RWRJ2RD2KUW",
+      "length": 4202
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi%20state%20election%20commission/latest%20updates/m%20c%20d%20election%202012?wcm_page.0c51d6004a510c878a25db72d2eb9c1f=4&wcm_pi=1",
+      "timestamp": "20201029220827",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=4",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "YJC5NDHQRQOU5K57NRKQI7ZU5A6Q3354",
+      "length": 4304
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi%20state%20election%20commission/latest%20updates/m%20c%20d%20election%202012?wcm_page.0c51d6004a510c878a25db72d2eb9c1f=5&wcm_pi=1",
+      "timestamp": "20201029230136",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi%20State%20Election%20Commission/Latest%20Updates/M%20C%20D%20Election%202012?WCM_PI=1&WCM_Page.0c51d6004a510c878a25db72d2eb9c1f=5",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "WV6FBQVO2DI57ETUYBS6RPMXVPF5ZDRJ",
+      "length": 3695
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi+state+election+commission/latest+updates/m+c+d+election+2012",
+      "timestamp": "20201001211418",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi+State+Election+Commission/Latest+Updates/M+C+D+Election+2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "VR6KIJUOIE7SX5FTTQZOKRWDD5KENTLB",
+      "length": 4244
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/doit_dsec/delhi+state+election+commission/latest+updates/sector+officer+2012",
+      "timestamp": "20201001215401",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/doit_dsec/Delhi+State+Election+Commission/Latest+Updates/Sector+Officer+2012",
+      "mimetype": "text/html",
+      "statuscode": 200,
+      "digest": "2ZF4QKUZKJFGAIB7BHR6SNPUCBSQP37N",
+      "length": 3795
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/citizen%20charter.pdf",
+      "timestamp": "20070315195906",
+      "original": "http://sec.delhigovt.nic.in/citizen%20charter.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "TLXVZXI4EDHAGPCEO45G3GXREA3ABGL6",
+      "length": 22678
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form1.pdf",
+      "timestamp": "20070312132006",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "GM52K5YVNBUQYFIAIF53UZFCZKECGRBN",
+      "length": 46105
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form10.pdf",
+      "timestamp": "20070312160553",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form10.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "B6YSRCPJMQA4CMSVRL2ZXAI5NGEZD4NW",
+      "length": 44573
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form11.pdf",
+      "timestamp": "20070312160136",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form11.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "LWXLO7L5MMKQW6NMDZWCCCP5XHIHRMQE",
+      "length": 54519
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form12.pdf",
+      "timestamp": "20070312160208",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form12.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "UZFWSA2MFPC3WEF63WWAMRCG5Y6FBG4I",
+      "length": 46039
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form13.pdf",
+      "timestamp": "20070312155937",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form13.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "26LFGCYQ7YTPYBN2VLGT3OY5E3X4BSCM",
+      "length": 45848
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form14.pdf",
+      "timestamp": "20070312130859",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form14.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "GI7EDQX55PHTXLXGU2VPNGNEWLXFBINX",
+      "length": 74377
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form15.pdf",
+      "timestamp": "20070312160041",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form15.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "USECISG4MOGVMDYVOLXBVAIPWDPUIEBM",
+      "length": 49465
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form16.pdf",
+      "timestamp": "20070312160159",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form16.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "4GBYWS37J3TV57P5EZBSBECYKO4SBGZR",
+      "length": 42625
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form17.pdf",
+      "timestamp": "20070312131306",
+      "original": "http://sec.delhigovt.nic.in/formspdf/Form17.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "UCCDSYJIBQC2UND6UR2XUC4YGKLST2QG",
+      "length": 43329
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form18.pdf",
+      "timestamp": "20070312160543",
+      "original": "http://sec.delhigovt.nic.in/formspdf/Form18.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "O27H32GSUKVL5ZH6KOZ55JTZIEYZJQC5",
+      "length": 40747
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form19.pdf",
+      "timestamp": "20070312155926",
+      "original": "http://sec.delhigovt.nic.in/formspdf/Form19.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "GEZ2O6DGWB4TSYZ7TXUP6R6ILR46CHMI",
+      "length": 42913
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form2.pdf",
+      "timestamp": "20070312160457",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BGT7U5XYJWP6JALLABNJHZM7HVHHIAX7",
+      "length": 51814
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form3.pdf",
+      "timestamp": "20070312160417",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form3.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5BY7DTAVGBMGF5MFNUWCD7PM2SIXKIYP",
+      "length": 46861
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form4.pdf",
+      "timestamp": "20070312160427",
+      "original": "http://sec.delhigovt.nic.in/formspdf/Form4.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "SQQQF5EIMM2CN7AI25IJGUNXGTTSTLKW",
+      "length": 44812
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form5.pdf",
+      "timestamp": "20070312160228",
+      "original": "http://sec.delhigovt.nic.in/formspdf/Form5.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "UXCRAHLZWQMOXOW4VS5QPLM4FFA6QC7K",
+      "length": 45080
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form6.pdf",
+      "timestamp": "20070312160101",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form6.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "MMCOGYW3PWR73UJTTESVGIL7YBPI2ZVA",
+      "length": 45663
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form7.pdf",
+      "timestamp": "20070312160051",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form7.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5CYDO4RGWWA4GEDRELCYAELUEJQSYQKI",
+      "length": 41850
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form8.pdf",
+      "timestamp": "20070312160354",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form8.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5UXQ7SEEDLMNEDV7EE7DD2QTMLD5VMC5",
+      "length": 62360
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/formspdf/form9.pdf",
+      "timestamp": "20070312155824",
+      "original": "http://sec.delhigovt.nic.in/formspdf/form9.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "FTT4Z25D2NS5DBWHPKFYILA3OM6YW2OG",
+      "length": 42618
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/candidatewise_result.pdf",
+      "timestamp": "20090409223401",
+      "original": "http://sec.delhigovt.nic.in/home/Candidatewise_result.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BS5ZJAGZ6AJIKDIO7TNOOZ3KDYVNXDBO",
+      "length": 50280
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/candwise_result1.pdf",
+      "timestamp": "20090409223418",
+      "original": "http://sec.delhigovt.nic.in/home/CandWise_Result1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "YDS4AT7AJSIKNXYLLVX3RR7BX7XMWOA4",
+      "length": 31847
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/candwise_result2.pdf",
+      "timestamp": "20090409223410",
+      "original": "http://sec.delhigovt.nic.in/home/CandWise_Result2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "Y4AOD2B53SHMLTJKWBGKTCG4ZJWQF6EB",
+      "length": 46670
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/polling_perc_2006.pdf",
+      "timestamp": "20090409223426",
+      "original": "http://sec.delhigovt.nic.in/home/Polling_Perc_2006.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "7RRN4CMHVMOOO654WDN4RTMFS5CXGKTD",
+      "length": 24348
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/ps_panch_2006.pdf",
+      "timestamp": "20090409223459",
+      "original": "http://sec.delhigovt.nic.in/home/PS_PANCH_2006.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "LRAZINVIHTTDRJARIKSHTI7BJSGFS72U",
+      "length": 44490
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result/listofcountingcentres.pdf",
+      "timestamp": "20110523084341",
+      "original": "http://sec.delhigovt.nic.in/home/Result/Listofcountingcentres.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "THBCG5MMMJJMLWDQX4BQXGANDSZLYQGX",
+      "length": 7179
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result/notification_resevation_english.pdf",
+      "timestamp": "20110523084346",
+      "original": "http://sec.delhigovt.nic.in/home/Result/Notification_Resevation_English.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JO4U4N5FEGJTD2WRKX66OOK3754FX6SL",
+      "length": 56995
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result/notification_resevation_hindi.pdf",
+      "timestamp": "20110523084350",
+      "original": "http://sec.delhigovt.nic.in/home/Result/Notification_Resevation_Hindi.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "T5HVMXMBZ64LRMPLCAC6TDXSMSRWB2D7",
+      "length": 76768
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result/wardwisecontestingcandidate.pdf",
+      "timestamp": "20110523084358",
+      "original": "http://sec.delhigovt.nic.in/home/Result/wardwisecontestingcandidate.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5IMNLZSBHJ5HVEBSER2DRAV4DUQZRJR7",
+      "length": 54106
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result/winnerrunnerupreportwithsummary.pdf",
+      "timestamp": "20130612081010",
+      "original": "http://sec.delhigovt.nic.in/home/Result/winnerrunnerupreportwithSummary.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "64XAQCFNXOIV3WL7QGEJ5W772JKKNB27",
+      "length": 21196
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/result_sheet2.pdf",
+      "timestamp": "20090409223253",
+      "original": "http://sec.delhigovt.nic.in/home/Result_Sheet2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "S2ZKQXYSJLGGBXN7Y6XEKA6V4SMOA2NA",
+      "length": 39809
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/tentage070131.pdf",
+      "timestamp": "20070223052303",
+      "original": "http://sec.delhigovt.nic.in/home/tentage070131.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "FNIMHAJS2XN3LP4SQHMBWYZUNHMH6KGV",
+      "length": 147735
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/home/vehicle_ok070131.pdf",
+      "timestamp": "20090409225859",
+      "original": "http://sec.delhigovt.nic.in/home/vehicle_ok070131.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "6WWVPVIWWHFRE6PYS3HH5DQELVNRF6DI",
+      "length": 89514
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/notification/english_notification_7feb.pdf",
+      "timestamp": "20070312160517",
+      "original": "http://sec.delhigovt.nic.in/notification/English_Notification_7Feb.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JTJVBLOFLZMADOMGHKLIK6YS4HDNKUL5",
+      "length": 219143
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/notification/notification_hindi_7_feb.doc.pdf",
+      "timestamp": "20090409225454",
+      "original": "http://sec.delhigovt.nic.in/notification/notification_hindi_7_feb.doc.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BKJEO3RNJKD2ZUYKJRR72QKAKXXB7H3W",
+      "length": 156008
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/pdf/aro_eng_070223.pdf",
+      "timestamp": "20100816110623",
+      "original": "http://sec.delhigovt.nic.in/pdf/ARO_eng_070223.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "HHGXUVZF3OP663V624RMFT7ITDZSSGNB",
+      "length": 141413
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/pdf/ro_eng_070223.pdf",
+      "timestamp": "20110105110635",
+      "original": "http://sec.delhigovt.nic.in/pdf/RO_eng_070223.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BXVFLOE3JMO4O5OYCT2DQFDAI4DOWH54",
+      "length": 102196
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/listofcountingcentres.pdf",
+      "timestamp": "20090319230325",
+      "original": "http://sec.delhigovt.nic.in/Result/Listofcountingcentres.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "THBCG5MMMJJMLWDQX4BQXGANDSZLYQGX",
+      "length": 7173
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/notification_resevation_english.pdf",
+      "timestamp": "20090319230336",
+      "original": "http://sec.delhigovt.nic.in/Result/Notification_Resevation_English.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JO4U4N5FEGJTD2WRKX66OOK3754FX6SL",
+      "length": 56990
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/notification_resevation_hindi.pdf",
+      "timestamp": "20090319230347",
+      "original": "http://sec.delhigovt.nic.in/Result/Notification_Resevation_Hindi.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "T5HVMXMBZ64LRMPLCAC6TDXSMSRWB2D7",
+      "length": 76766
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/symbol_order.pdf",
+      "timestamp": "20090319230352",
+      "original": "http://sec.delhigovt.nic.in/Result/Symbol_Order.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "OAEXJL3S4LGROAVV5FZ2EOQEOUCBE4XT",
+      "length": 26862
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/wardwisecontestingcandidate.pdf",
+      "timestamp": "20090319230402",
+      "original": "http://sec.delhigovt.nic.in/Result/wardwisecontestingcandidate.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5IMNLZSBHJ5HVEBSER2DRAV4DUQZRJR7",
+      "length": 54101
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/result/winnerrunnerupreportwithsummary.pdf",
+      "timestamp": "20090319230503",
+      "original": "http://sec.delhigovt.nic.in/Result/winnerrunnerupreportwithSummary.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "64XAQCFNXOIV3WL7QGEJ5W772JKKNB27",
+      "length": 21190
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/10_1.pdf",
+      "timestamp": "20220526132407",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/10_1.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "EQKMAPHB6I6FRAOQEB3AJVBY3Q5GVHRD",
+      "length": 532842
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/11.pdf",
+      "timestamp": "20220526142533",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/11.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "HPP3TD4W3UUSCYK5FUJYAAKE4RBRI7ZC",
+      "length": 632180
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/12.pdf",
+      "timestamp": "20220526141630",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/12.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "YUYXWRKAKCDUBRMR7UAQR7QUXH5PKWFD",
+      "length": 404575
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/1st-april-2017-public-holiday.pdf",
+      "timestamp": "20220818075512",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/1st-april-2017-public-holiday.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "4C5Y5SJUR6TKHNK3XFAGDRK7L6ZVGRHS",
+      "length": 306774
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/20170314191229.pdf",
+      "timestamp": "20220818070947",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/20170314191229.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JNXU5WTCYAWBM3HXK4YHROGGBQWINEA6",
+      "length": 979999
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/20170327191712.pdf",
+      "timestamp": "20220818081316",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/20170327191712.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "4Z2O3S7B5OEUIZFO4PJJA7AN75LM3XOI",
+      "length": 930541
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/3.pdf",
+      "timestamp": "20220818075539",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/3.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "3RTICKYPBMXSA7C5Y3Y66IWNSQ3NWELZ",
+      "length": 416189
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/4_0.pdf",
+      "timestamp": "20220818072919",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/4_0.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "XRYKUPTINOQJBBFL5ZL66BZ67KGYOF75",
+      "length": 168787
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/5.pdf",
+      "timestamp": "20220526143457",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/5.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "VU73OSD3BHXRKKEQOKPRJYMCIK5M3UEL",
+      "length": 154534
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/6.pdf",
+      "timestamp": "20220526143439",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/6.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "YMTSPDBSOUD5EWEOBZOHGFMKVAMQ2PEH",
+      "length": 499409
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/7.pdf",
+      "timestamp": "20220526143417",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/7.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "M6OUULV6AJMZ4ZQJC33LG2UHNTYB4F7K",
+      "length": 165799
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/8.pdf",
+      "timestamp": "20220526143353",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/8.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "AHYEAJQUGZTWANN33AJCQ7N2RL7ATNC2",
+      "length": 167376
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/9.pdf",
+      "timestamp": "20220526143332",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/9.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "OBB4XJPOQDSVGINSJWEIJ7GYS4HJHMSG",
+      "length": 174206
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/citizencharter.pdf",
+      "timestamp": "20220630133815",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/CitizenCharter.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JHJP2N3AEPC2A6GLFO427ZAA3Y43PHOJ",
+      "length": 256836
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/clear-copy-order-3.pdf",
+      "timestamp": "20220818080457",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/clear-copy-order-3.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "LYIE6UEAAUYE7FSIQNEMB6BIOCGMPR6Q",
+      "length": 699015
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/depositing-amount-filling-election-petition.pdf",
+      "timestamp": "20220818072440",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/depositing-amount-filling-election-petition.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "XYR2LI77ZFSHYU2LTNMAX7LFEKLPXKLO",
+      "length": 234397
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/englishhindimerged.pdf",
+      "timestamp": "20220526143310",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/englishhindimerged.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "U3GWGUFPPULLC2C2ZIIJDRXWFITVNQHQ",
+      "length": 553314
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/finaldisqualifedcandidate.pdf",
+      "timestamp": "20220818070219",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/finaldisqualifedcandidate.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "WVTH4EYN6GADTDVMNDEDZOJ3D66KA4Y4",
+      "length": 239911
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/form+2.pdf",
+      "timestamp": "20220818072127",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/form+2.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "3PXGTAEYGTVKD4Q36ULC4GNEPCUIT7V2",
+      "length": 952404
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/form13.pdf",
+      "timestamp": "20220818080900",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/form13.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "RCJ77K3P7AH4D656PYK2A2N5IJI3TOKC",
+      "length": 48851
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/gazetteorderenglish.pdf",
+      "timestamp": "20220818070024",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/gazetteorderenglish.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "QUCTAKOHCEU4NJB7VEQWAQULEG3QPT7T",
+      "length": 141607
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/gazetteorderenglishdated06-09-2013.pdf",
+      "timestamp": "20220818083355",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/gazetteorderenglishdated06-09-2013.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "3JOFSFQV6OE4OQRMVBW526J2IQHXW2PA",
+      "length": 54458
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/gazetteorderenglishdated25-09-2013.pdf",
+      "timestamp": "20220818072844",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/gazetteorderenglishdated25-09-2013.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "OJYAZC7YX6WSJOJOM2TMJ33SCOKVYSRB",
+      "length": 58861
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/listofdisqualifiedpersonsenglishdated30072013.pdf",
+      "timestamp": "20220818083915",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/listofdisqualifiedpersonsenglishdated30072013.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "6B6ZQ2L42CSHDR4CRVIBL4AYEZS7EVUZ",
+      "length": 189419
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/lists-scheduled-castes.pdf",
+      "timestamp": "20220818065916",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/lists-scheduled-castes.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "FN4KJSQFLZQD32JLSBOSQJD7YQBU5LJR",
+      "length": 892678
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/ndmc-summary.pdf",
+      "timestamp": "20221004204852",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/ndmc-summary.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "KQGWKAKCLZHKB2BIU7VPUBXZLSD2BDVP",
+      "length": 411909
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/nodel-officer-delhi-police.pdf",
+      "timestamp": "20220818081733",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/nodel-officer-delhi-police.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5XCTAZOT5XDXMTGKP7N3RDSEUTKMNKH6",
+      "length": 392244
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/nodel-officer-district-level.pdf",
+      "timestamp": "20220818083946",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/nodel-officer-district-level.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "6AMNUC4UPSY5FZOAF7WOSWKQZSKGXOYL",
+      "length": 905514
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/nodel-officer-south-district.pdf",
+      "timestamp": "20220818080519",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/nodel-officer-south-district.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "ZQZBDKNMB5VZBZODSBHWVDR3MUKEHIIU",
+      "length": 579245
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/order-regarding-nota.pdf",
+      "timestamp": "20220315205242",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/order-regarding-nota.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "ULKRKMFL4M2IHLZGLFC5G6WJSDV6EVKT",
+      "length": 386244
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/order.pdf",
+      "timestamp": "20220818084130",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/order.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "SE3KWLIYRK4VVOCUILJVGEXLAZXJJSWQ",
+      "length": 594423
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/orderregarding.pdf",
+      "timestamp": "20220818084021",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/orderregarding.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "PQSEJN5QCW772JLBLHZBKD36RDGSQRMV",
+      "length": 925962
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/regardingsalepofelectrolrole.pdf",
+      "timestamp": "20220818072321",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/regardingsalepofelectrolrole.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "OLUTCJ5W2ABI65WMJR7YPA3DI7FORWW2",
+      "length": 772944
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/reservationorder.pdf",
+      "timestamp": "20221105115536",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/reservationOrder.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "HO5QEICM5QTKAUJA7VX3W4M47TGUY5RT",
+      "length": 1224839
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/rohq.pdf",
+      "timestamp": "20220818071532",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/rohq.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "3XAJMWNOJPT45ZWLGSKN7U7WHK6Z3OMX",
+      "length": 305238
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sale-electoral-roll.pdf",
+      "timestamp": "20220818065828",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/sale-electoral-roll.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "VOIXJXM5VQQ3LTX5YUI7FVAALW4FHNFX",
+      "length": 772941
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/expenditue%20limit.pdf",
+      "timestamp": "20220630130637",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/Expenditue%20limit.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "RSFOZOMX75QRJZMMDZSLWWKGEHOSHEL7",
+      "length": 374560
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/mcc-2022%20pdf%20final%201.pdf",
+      "timestamp": "20220630143737",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/MCC-2022%20PDF%20FINAL%201.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "IDMQUFOBTEH34Q7GOTHZLZ43DBV6NR4K",
+      "length": 234618
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/order%20polling%20station%20list.pdf",
+      "timestamp": "20220630142332",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/Order%20Polling%20Station%20list.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "2LBKRVXCQ727S4PEZEKNML5MWANVD5FE",
+      "length": 980643
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/presiding%20officer%20hand%20book.pdf",
+      "timestamp": "20220630130556",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/presiding%20officer%20hand%20book.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "6P2UWNKJWJITEKTIMIKBDCJTBK27KWH7",
+      "length": 949798
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/election2022/symbolorder.pdf",
+      "timestamp": "20220630142542",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Election2022/Symbolorder.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "PWNDANPRFHYUHLU4QZDXUJFH346HQCQV",
+      "length": 1008240
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/sec%20ge%202022/reservation%20order%20for%20the%20general%20election%202022.pdf",
+      "timestamp": "20220630123914",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/SEC%20GE%202022/Reservation%20order%20for%20the%20General%20Election%202022.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "T6LTUIWXIW6MB3YXIHIMDDFEIX55EOZD",
+      "length": 784247
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/ward-105-mcd-12.pdf",
+      "timestamp": "20221004190214",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/ward-105-mcd-12.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "7IJCJGWEAQI4RS727AAD3FBBQ2WTKL7T",
+      "length": 7037
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/sites/default/files/ward-33-n-begampur.pdf",
+      "timestamp": "20220830072827",
+      "original": "http://sec.delhigovt.nic.in/sites/default/files/WARD-33-N-BEGAMPUR.pdf",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "NKUQKLCOYCVY45QCWLG6OQUU25MOLMO3",
+      "length": 888311
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/020f57004aa72f2a93f3d39036582570/order4534.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029224601",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/020f57004aa72f2a93f3d39036582570/order4534.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "QWKADBTGEQWJYBSH6XJNZSSPKL3NYDKW",
+      "length": 940024
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/03f64d004a5133528c41df72d2eb9c1f/polling_party_format.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029221014",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/03f64d004a5133528c41df72d2eb9c1f/Polling_party_format.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "NQ6ZTRIV7EK6QNEI7IKMH4T6LM27RGBZ",
+      "length": 37911
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/0843b7804a5ca4e9be9cff72d2eb9c1f/expenditure+observer-north.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029233259",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/0843b7804a5ca4e9be9cff72d2eb9c1f/Expenditure+Observer-NORTH.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "LE2QNZXWVYW4QUEJ5BSZ4BVBSFKC4DKH",
+      "length": 24924
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/0957628040edd4c08e838f9042744ed5/votes+share-north.pdf?lmod=-1375544357&mod=ajperes",
+      "timestamp": "20211206042023",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/0957628040edd4c08e838f9042744ed5/votes+share-north.pdf?MOD=AJPERES&lmod=-1375544357",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BASGXPJGI2N2SPUYBWRNMKO3E3S5GP2G",
+      "length": 201926
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/0a9a7a804aa74f379a27da9036582570/order4540.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029224926",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/0a9a7a804aa74f379a27da9036582570/order4540.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "P4QUBUE7B57DO4FETDKUTURXUZ6NTFTA",
+      "length": 925809
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/0d12100040edd7728eb08f9042744ed5/result+summary-east.pdf?lmod=-1375116125&mod=ajperes",
+      "timestamp": "20211206042458",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/0d12100040edd7728eb08f9042744ed5/Result+Summary-East.pdf?MOD=AJPERES&lmod=-1375116125",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "OIGPVBQXYXMUMUEMSYBUAUJ22QXDENJ2",
+      "length": 248858
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/0d9538804acece07847ad4f1df26f9db/ward-270.pdf?lmod=-341357430&mod=ajperes",
+      "timestamp": "20200702132643",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/0d9538804acece07847ad4f1df26f9db/Ward-270.pdf?MOD=AJPERES&lmod=-341357430",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "4UQUS3L43VWNC2KFYKOGTJ75DQQWLVPC",
+      "length": 4260
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/1a334c004a75834f85b9d772d2eb9c1f/maximum+expenditure.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029233838",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/1a334c004a75834f85b9d772d2eb9c1f/maximum+expenditure.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "CRIV6RXBW7NVRI2B43FUBWFM5DDRKDUP",
+      "length": 1036594
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/237208004aa72cca93c7d39036582570/order4533.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029221554",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/237208004aa72cca93c7d39036582570/order4533.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "GPQ5XREDGWXU2VY2AB4SAJLHTBYX5AX7",
+      "length": 927387
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/321b27804aa73a0b959dd79036582570/order4536.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029215446",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/321b27804aa73a0b959dd79036582570/order4536.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "QWKADBTGEQWJYBSH6XJNZSSPKL3NYDKW",
+      "length": 940023
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/36d944804aa73e2c96aad69036582570/order4541.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029225144",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/36d944804aa73e2c96aad69036582570/Order4541.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "DGQONHGBC67MTZAISISCXIWFMUL7T45H",
+      "length": 921578
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/3f9efa804aa7314b9426d69036582570/order4535.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029232011",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/3f9efa804aa7314b9426d69036582570/order4535.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "GT6DNKZHX77WM2MCUUHQ5HHHHYXS7PL6",
+      "length": 914608
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/4a0d3a004a728dc8bf9aff72d2eb9c1f/observer-east.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029215213",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/4a0d3a004a728dc8bf9aff72d2eb9c1f/OBSERVER-EAST.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "M36BNRJLSI5WSQ3BRMZ5YAKOP6WOZR2U",
+      "length": 62948
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/4c10b5004a728c71bf60ff72d2eb9c1f/observer-north.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029223457",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/4c10b5004a728c71bf60ff72d2eb9c1f/OBSERVER-NORTH.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "VZY5HA67F2U7JEBKA42IE5PWEAHUSDU6",
+      "length": 71510
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/5cc4d8004aa9bdeebf5eff9036582570/orderno.38.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029220454",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/5cc4d8004aa9bdeebf5eff9036582570/orderNo.38.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "BOFNMHCENHQAB7PC2QUNUH3BQMZNH54S",
+      "length": 929333
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/617b46804aa7192d9270d29036582570/order4531.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029215653",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/617b46804aa7192d9270d29036582570/order4531.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "SGVRO7S4TSSJEC7I7DLIA6D6LN2A7QTY",
+      "length": 920297
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/6b95b2004a5133bd8c51df72d2eb9c1f/deo+public+notice.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029221437",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/6b95b2004a5133bd8c51df72d2eb9c1f/DEO+Public+Notice.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "CYPHOVXPPGXNWXAUGQ675ZX2FTV4HL2A",
+      "length": 1040698
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/6bafad804a9d20d59529dd2787c22478/amendment+in+symbol+order.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029221821",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/6bafad804a9d20d59529dd2787c22478/Amendment+In+Symbol+Order.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "E4WKZBVJVPACIUV6CCAIM3RAENCOYSLP",
+      "length": 555494
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/708233004a5113348b0ddb72d2eb9c1f/r.o.public+notice.pdf?lmod=-2131095317&mod=ajperes",
+      "timestamp": "20201029225315",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/708233004a5113348b0ddb72d2eb9c1f/R.O.Public+Notice.pdf?MOD=AJPERES&lmod=-2131095317",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "U7EW6EXYUKJSRODC7M6SOP37BZPEYUPB",
+      "length": 1049136
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/8817e7004aa73c26962ad69036582570/order4537.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029214943",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/8817e7004aa73c26962ad69036582570/order4537.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "Z24KKS2PLOEF5DUM2AX3LWRMUW7WQLPM",
+      "length": 861506
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/8ea8a9804aa72a409387d39036582570/order4532.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029221157",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/8ea8a9804aa72a409387d39036582570/order4532.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "HWTW3JPUN6YSU63AZYBEJISPWL3VFXVW",
+      "length": 940428
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/9d7596804aa74b7e9951db9036582570/order4539.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029231014",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/9d7596804aa74b7e9951db9036582570/order4539.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "Z24KKS2PLOEF5DUM2AX3LWRMUW7WQLPM",
+      "length": 861514
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/c4384b0040edd5fb8e8d8f9042744ed5/result+summary-+north.pdf?lmod=-1375458710&mod=ajperes",
+      "timestamp": "20211206042142",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/c4384b0040edd5fb8e8d8f9042744ed5/Result+Summary-+North.pdf?MOD=AJPERES&lmod=-1375458710",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "X2GAAPU4L64BJ5Q6ODXLIITH4PBDSDTO",
+      "length": 271407
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/d53cb40040edd7d58ec48f9042744ed5/partywiseforfeited_comparision+security.pdf?lmod=-1374918561&mod=ajperes",
+      "timestamp": "20211206040423",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/d53cb40040edd7d58ec48f9042744ed5/PartywiseForfeited_Comparision+security.pdf?MOD=AJPERES&lmod=-1374918561",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "SAFIEU7OEHLKHJO4FBKQ2RUTUL5SG33X",
+      "length": 4792
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/d7e7db0040edd7ce8ebf8f9042744ed5/partywisevotesshare_comparision.pdf?lmod=-1374977617&mod=ajperes",
+      "timestamp": "20211206040405",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/d7e7db0040edd7ce8ebf8f9042744ed5/Partywisevotesshare_Comparision.pdf?MOD=AJPERES&lmod=-1374977617",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "JE2TQBD7ZOXO7WPV5KQ5DRJUPSP2LFFO",
+      "length": 5712
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/ed9fab804aa6fca7909ad29036582570/pdf+test+file.pdf?lmod=-342597878&mod=ajperes",
+      "timestamp": "20201029222535",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/ed9fab804aa6fca7909ad29036582570/PDF+TEST+FILE.pdf?MOD=AJPERES&lmod=-342597878",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "5JK6UH6GCT5ZDHAGWGDULX4PYJABTH7R",
+      "length": 277669
+    },
+    {
+      "urlkey": "in,nic,delhigovt,sec)/wps/wcm/connect/fa0ced804b6c06b58321cb788745c51a/order+web.pdf?cacheid=fa0ced804b6c06b58321cb788745c51a&lmod=1219620555&mod=ajperes",
+      "timestamp": "20201001223021",
+      "original": "http://sec.delhigovt.nic.in/wps/wcm/connect/fa0ced804b6c06b58321cb788745c51a/order+web.pdf?MOD=AJPERES&lmod=1219620555&CACHEID=fa0ced804b6c06b58321cb788745c51a",
+      "mimetype": "application/pdf",
+      "statuscode": 200,
+      "digest": "KV3FYSJZ5Z3DUMMIAXKAALQXFS43JPL6",
+      "length": 323931
+    }
+  ]
+}

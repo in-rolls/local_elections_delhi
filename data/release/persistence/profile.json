@@ -1,0 +1,46 @@
+{
+  "linked_wards": 272,
+  "women_reserved_2012": 138,
+  "nonquota_2012": 134,
+  "known_nonquota_outcomes": 133,
+  "unknown_nonquota_wards": [
+    "115"
+  ],
+  "arms": [
+    {
+      "prior_reserved_woman": 0,
+      "eligible_wards": 90,
+      "known_winners": 89,
+      "women_winners": 2
+    },
+    {
+      "prior_reserved_woman": 1,
+      "eligible_wards": 44,
+      "known_winners": 44,
+      "women_winners": 3
+    }
+  ],
+  "quota_transitions": [
+    {
+      "prior_reserved_woman": 0,
+      "reserved_woman": 0,
+      "wards": 90
+    },
+    {
+      "prior_reserved_woman": 0,
+      "reserved_woman": 1,
+      "wards": 90
+    },
+    {
+      "prior_reserved_woman": 1,
+      "reserved_woman": 0,
+      "wards": 44
+    },
+    {
+      "prior_reserved_woman": 1,
+      "reserved_woman": 1,
+      "wards": 48
+    }
+  ],
+  "ward_name_differences": 16
+}

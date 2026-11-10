@@ -1,0 +1,107 @@
+{
+  "candidates": {
+    "rows": 1349,
+    "key": [
+      "year",
+      "ward",
+      "rank"
+    ],
+    "columns": {
+      "year": "int64",
+      "ward": "string",
+      "rank": "int64",
+      "candidate_name": "string",
+      "party": "string",
+      "votes": "int64",
+      "votes_raw_compilation": "int64",
+      "rank_raw_compilation": "int64",
+      "votes_report": "int64",
+      "report_order": "int64",
+      "vote_source": "string",
+      "vote_source_page": "int64",
+      "is_winner": "bool",
+      "reservation": "string",
+      "quota": "bool",
+      "sex": "string",
+      "sex_raw": "string",
+      "age": "int64",
+      "age_raw": "string",
+      "education": "string",
+      "graduate": "int64",
+      "education_raw_tcpd": "string",
+      "candidate_source": "string",
+      "source_row": "int64"
+    }
+  },
+  "nota": {
+    "rows": 250,
+    "key": [
+      "year",
+      "ward"
+    ],
+    "columns": {
+      "year": "int64",
+      "ward": "string",
+      "votes": "int64"
+    }
+  },
+  "winners": {
+    "rows": 250,
+    "key": [
+      "year",
+      "ward"
+    ],
+    "columns": {
+      "year": "int64",
+      "ward": "string",
+      "rank": "int64",
+      "candidate_name": "string",
+      "party": "string",
+      "votes": "int64",
+      "votes_raw_compilation": "int64",
+      "rank_raw_compilation": "int64",
+      "votes_report": "int64",
+      "report_order": "int64",
+      "vote_source": "string",
+      "vote_source_page": "int64",
+      "is_winner": "bool",
+      "reservation": "string",
+      "quota": "bool",
+      "sex": "string",
+      "sex_raw": "string",
+      "age": "int64",
+      "age_raw": "string",
+      "education": "string",
+      "graduate": "int64",
+      "education_raw_tcpd": "string",
+      "candidate_source": "string",
+      "source_row": "int64",
+      "winner_name": "string",
+      "winner_party": "string",
+      "winner_votes": "int64",
+      "winner_votes_raw_report": "int64",
+      "runner_up_name": "string",
+      "runner_up_party": "string",
+      "runner_up_votes": "int64",
+      "margin": "int64",
+      "result_source": "string",
+      "source_page": "string",
+      "result_verification": "string",
+      "education_source": "string",
+      "education_status": "string",
+      "education_raw_profile": "string",
+      "education_details_profile": "string",
+      "profile_url": "string",
+      "profile_cache_path": "string",
+      "profile_sha256": "string",
+      "graduate_conflict": "bool",
+      "category_disagreement": "bool",
+      "affidavit_verified": "bool",
+      "age_profile": "int64",
+      "pending_cases": "int64",
+      "convicted_cases": "int64",
+      "occupation_profile": "string",
+      "affidavit_filename_tcpd": "string"
+    }
+  }
+}

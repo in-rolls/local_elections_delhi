@@ -1,0 +1,32 @@
+{
+  "rows": 794,
+  "key": [
+    "year",
+    "ward"
+  ],
+  "columns": {
+    "year": "int64",
+    "ward": "string",
+    "winner_name": "string",
+    "education_raw_profile": "string",
+    "education_details_profile": "string",
+    "profile_url": "string",
+    "profile_cache_path": "string",
+    "profile_sha256": "string",
+    "profile_capture": "string",
+    "education_raw_goyal": "string",
+    "education_details_goyal": "string",
+    "education_raw_tcpd": "string",
+    "affidavit_filename_tcpd": "string",
+    "graduate_raw_profile": "int64",
+    "graduate_raw_secondary": "int64",
+    "category_disagreement": "bool",
+    "graduate_conflict": "bool",
+    "affidavit_verified": "bool",
+    "independent_education_source": "string",
+    "education_source": "string",
+    "education": "string",
+    "graduate": "int64",
+    "education_status": "string"
+  }
+}

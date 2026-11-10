@@ -1,0 +1,3 @@
+data/** -text
+*.pdf binary
+*.parquet binary
